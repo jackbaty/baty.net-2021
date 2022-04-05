@@ -1,7 +1,7 @@
 ---
 title: "A new blog just for the hell of it"
 date: 2022-04-03T11:11:00-04:00
-lastmod: 2022-04-05T04:40:40-04:00
+lastmod: 2022-04-05T04:42:48-04:00
 slug: "a-new-blog-just-for-the-hell-of-it"
 tags: ["Hugo"]
 categories: ["Blogging"]

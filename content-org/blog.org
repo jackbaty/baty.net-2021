@@ -5,6 +5,7 @@
 #+hugo_auto_set_lastmod: t
 #+hugo_front_matter_format: yaml
 #+hugo_front_matter_key_replace: description>summary author>nil
+#+author: Jack
 #+category: Blog
 #+startup: overview
 #+options: broken-links:t
@@ -49,6 +50,21 @@ CLOSED: [2022-04-03 Sun 09:30]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage /img/2022/20220403-R0002125A.jpg
 :END:
 I'm an impressionable young man, and when I notice someone on The Internet raving about something, I want to feel that way, too. I often order whatever that thing is, only to be disappointed. For example, here are a few of the pens I bought after being told how great they were. The're not.
+
+* Now
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: now
+:END:
+
+What I'm doing as of *Tuesday, April  5, 2022*
+
+- Moving blogs around again
+- Spending time in the darkroom
+- Trying to read more. Currently "Analogia: The Emergence of Technology Beyond Programmable Control" by George Dyson
+
+
+(Thanks to [[https://sive.rs][Derek Sivers]] for the idea of [[https://nownownow.com/about][keeping a /now page]] like this one.)
 
 * About
 :PROPERTIES:
