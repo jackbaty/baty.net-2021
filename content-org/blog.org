@@ -47,7 +47,7 @@ CLOSED: [2022-04-03 Sun 09:30]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 20220403-some-unremarkable-pens
 :EXPORT_HUGO_SLUG: some-unremarkable-pens
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage /img/2022/20220403-R0002125A.jpg
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage https://baty.net/img/2022/20220403-R0002125A.jpg
 :END:
 I'm an impressionable young man, and when I notice someone on The Internet raving about something, I want to feel that way, too. I often order whatever that thing is, only to be disappointed. For example, here are a few of the pens I bought after being told how remarkable they are. They're not that remarkable.
 
