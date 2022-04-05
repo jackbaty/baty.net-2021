@@ -16,45 +16,60 @@ I want my per-line code comments to line up nicely, so I&#8217;ll often add a bu
 
 Two minutes of searching [revealed a short bit of lisp][1] that does the job nicely: 
 
-<pre class="wp-block-code"><code lang="lisp" class="language-lisp">;; Align comments in marked region
+``` emacs-lisp
+;; Align comments in marked region
+;; Via https://stackoverflow.com/a/20278032
 (defun jab/align-comments (beginning end)
-  &lt;em>"Align comments within marked region."&lt;/em>
+  "Align comments within marked region."
   (interactive "*r")
   (let (indent-tabs-mode align-to-tab-stop)
-    (align-regexp beginning end (concat "&lt;strong>\\&lt;/strong>&lt;strong>(&lt;/strong>\\s-*&lt;strong>\\&lt;/strong>&lt;strong>)&lt;/strong>"
+    (align-regexp beginning end (concat "\\(\\s-*\\)"
                                         (regexp-quote comment-start)))))
-</code></pre>
+```
 
 Here&#8217;s an example of what I was working on, with horribly un-aligned comments.
 
-<pre class="wp-block-code"><code lang="lisp" class="language-lisp">(setq org-roam-capture-templates
+```emacs-lisp
+(setq org-roam-capture-templates
   '(("d" "default" plain "%?"
-    :target (file+head "%&lt;%Y%m%d&gt;-${slug}.org"
+    :target (file+head "%<%Y%m%d>-${slug}.org"
                        "#+title: ${title}\n#+index: \n#+setupfile: ~/org/_SETUP/EXPORT\n#+setupfile: ~/org/_SETUP/org-roam-publish-fancy.setup")
     :unnarrowed t)
+    ("P" ;; Key
+     "Public (published in /public)" ;; Description
+     plain  ;; Type
+     (file "~/org/roam/templates/PublicTemplate.org")  ;; Template
+    :target (file "public/${slug}.org") ;; Target
+    :unnarrowed t)
     ("p" ;; Key
-     "project" ;; Description
-     plain ;; Type
-     (file "~/org/roam/templates/ProjectTemplate.org")       ;; Template
-    :target (file "%&lt;%Y%m%d&gt;-${slug}.org")
+     "project"  ;; Description
+     plain   ;; Type
+     (file "~/org/roam/templates/ProjectTemplate.org") ;; Template
+    :target (file "projects/%<%Y%m%d>-${slug}.org")    ;; Target
     :unnarrowed t)))
-
-</code></pre>
+```
 
 Then, here&#8217;s that same thing after executing&nbsp;`jab/align-comments`
 
-<pre class="wp-block-code"><code lang="lisp" class="language-lisp">(setq org-roam-capture-templates
+```emacs-lisp
+(setq org-roam-capture-templates
   '(("d" "default" plain "%?"
-    :target (file+head "%&lt;%Y%m%d&gt;-${slug}.org"
+    :target (file+head "%<%Y%m%d>-${slug}.org"
                        "#+title: ${title}\n#+index: \n#+setupfile: ~/org/_SETUP/EXPORT\n#+setupfile: ~/org/_SETUP/org-roam-publish-fancy.setup")
+    :unnarrowed t)
+    ("P"                                               ;; Key
+     "Public (published in /public)"                   ;; Description
+     plain                                             ;; Type
+     (file "~/org/roam/templates/PublicTemplate.org")  ;; Template
+    :target (file "public/${slug}.org")                ;; Target
     :unnarrowed t)
     ("p"                                               ;; Key
      "project"                                         ;; Description
      plain                                             ;; Type
      (file "~/org/roam/templates/ProjectTemplate.org") ;; Template
-    :target (file "%&lt;%Y%m%d&gt;-${slug}.org")             ;; Target
+    :target (file "projects/%<%Y%m%d>-${slug}.org")    ;; Target
     :unnarrowed t)))
-</code></pre>
+```
 
 Much better. It&#8217;s cool because it uses `comment-start` so it works with any language&#8217;s comment syntax. There are probably 17 other ways of doing this that I haven&#8217;t discovered, but this works. 
 
