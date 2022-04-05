@@ -38,7 +38,7 @@ CLOSED: [2022-04-03 Sun 11:11]
 :EXPORT_HUGO_SLUG: a-new-blog-just-for-the-hell-of-it
 :END:
 
-Here we are, running the show as a static blog, using Hugo. But why!? I suppose because I was bored and because it's fun. Also because while tinkering with my [[https://notes.baty.net][notes.baty.net]] site I was reminded that I like the "CodeIt" theme that it uses. I thought I'd see how it felt to create a blog from scratch using my version of that theme. Turns out it felt pretty good, so here we are.
+Here we are, running the show as a static blog, using Hugo. But why!? I suppose because I was bored and because it's fun. Also because while tinkering with my [[https://notes.baty.net][notes.baty.net]] site I was reminded that I like the "[[https://github.com/jackbaty/CodeIT][CodeIt]]" theme that it uses. I thought I'd see how it felt to create a blog from scratch using my version of that theme. Turns out it felt pretty good, so here we are.
 
 I grew tired of pushing against the weight of WordPress.  The inconvenience of maintaining a static blog seemed like a fair trade. The past couple of days, I have found myself happier dealing with the inconvenience.
 
@@ -49,7 +49,7 @@ CLOSED: [2022-04-03 Sun 09:30]
 :EXPORT_HUGO_SLUG: some-unremarkable-pens
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage /img/2022/20220403-R0002125A.jpg
 :END:
-I'm an impressionable young man, and when I notice someone on The Internet raving about something, I want to feel that way, too. I often order whatever that thing is, only to be disappointed. For example, here are a few of the pens I bought after being told how great they were. The're not.
+I'm an impressionable young man, and when I notice someone on The Internet raving about something, I want to feel that way, too. I often order whatever that thing is, only to be disappointed. For example, here are a few of the pens I bought after being told how remarkable they are. They're not that remarkable.
 
 * Now
 :PROPERTIES:
