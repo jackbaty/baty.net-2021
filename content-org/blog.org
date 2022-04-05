@@ -37,9 +37,9 @@ CLOSED: [2022-04-03 Sun 11:11]
 :EXPORT_HUGO_SLUG: a-new-blog-just-for-the-hell-of-it
 :END:
 
-But why!? I suppose because I was bored this morning and because I can. Also because I was tinkering with my recent [[https://notes.baty.net][notes.baty.net]] site and was reminded that I like the "CodeIt" theme that it uses. I thought I'd see how it felt to create a blog from scratch using my version of that them. Turns out it felt pretty good, so here we are.
+Here we are, running the show as a static blog, using Hugo. But why!? I suppose because I was bored and because it's fun. Also because while tinkering with my [[https://notes.baty.net][notes.baty.net]] site I was reminded that I like the "CodeIt" theme that it uses. I thought I'd see how it felt to create a blog from scratch using my version of that theme. Turns out it felt pretty good, so here we are.
 
-I'm feeling the weight of WordPress pushing against the inconvenience of maintaining a static blog. The past couple of days, I have found myself happier dealing with the inconvenience.
+I grew tired of pushing against the weight of WordPress.  The inconvenience of maintaining a static blog seemed like a fair trade. The past couple of days, I have found myself happier dealing with the inconvenience.
 
 *** DONE Some unremarkable pens the Internet made me buy :@Analog:
 CLOSED: [2022-04-03 Sun 09:30]
