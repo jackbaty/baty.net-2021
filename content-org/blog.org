@@ -1,0 +1,90 @@
+;; -*- eval: (writeroom-mode) -*-
+#+hugo_base_dir: ../
+#+hugo_section: ./
+#+hugo_weight: nil
+#+hugo_auto_set_lastmod: t
+#+hugo_front_matter_format: yaml
+#+hugo_front_matter_key_replace: description>summary author>nil
+#+category: Blog
+#+startup: overview
+#+options: broken-links:t
+#+macro: mark @@html:<mark>$1</mark>@@
+
+* Drafts
+** TODO One moment, please...
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-02-18-Friday
+:EXPORT_HUGO_SLUG: 2022-02-18
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+[[/img/WillReturnAt.png]]
+
+👉 [[https://rl.baty.net][In the meantime]]...
+
+
+* 2022
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts/2022
+:DIR:  ~/sites/blog/static/img/2022/
+:END:
+** April 2022
+*** DONE A new blog just for the hell of it :@Blogging:Hugo:
+CLOSED: [2022-04-03 Sun 11:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220403-a-new-blog-just-for-the-hell-of-it
+:EXPORT_HUGO_SLUG: a-new-blog-just-for-the-hell-of-it
+:END:
+
+But why!? I suppose because I was bored this morning and because I can. Also because I was tinkering with my recent [[https://notes.baty.net][notes.baty.net]] site and was reminded that I like the "CodeIt" theme that it uses. I thought I'd see how it felt to create a blog from scratch using my version of that them. Turns out it felt pretty good, so here we are.
+
+I'm feeling the weight of WordPress pushing against the inconvenience of maintaining a static blog. The past couple of days, I have found myself happier dealing with the inconvenience.
+
+*** DONE Some unremarkable pens the Internet made me buy :@Analog:
+CLOSED: [2022-04-03 Sun 09:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220403-some-unremarkable-pens
+:EXPORT_HUGO_SLUG: some-unremarkable-pens
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage /img/2022/20220403-R0002125A.jpg
+:END:
+I'm an impressionable young man, and when I notice someone on The Internet raving about something, I want to feel that way, too. I often order whatever that thing is, only to be disappointed. For example, here are a few of the pens I bought after being told how great they were. The're not.
+
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_BUNDLE: about
+:EXPORT_FILE_NAME: index
+:END:
+
+#+attr_html: :class imgRightMargin
+#+caption: Your host, Jack Baty
+[[./jack-headshot-500.jpg]]
+
+I created this site as a place to capture the things I’m thinking about throughout each day.
+
+There isn’t a specific topic, or trend, or brand, or goal here. It can be pretty mundane.
+
+💌 Reach out via *email*: [[mailto:jack@baty.net][jack@baty.net]]
+
+My primary *blog* is at [[https://baty.net][baty.net]] \\
+The *wiki* is at [[https://wiki.baty.net][wiki.baty.net]]
+
+*Do not expect consistency*.
+
+#+begin_export html
+<br clear="all">
+#+end_export
+
+** Other things
+- [[/index.xml][RSS Feed]]
+- [[/changelog][Changelog]] of changes to this site's structure, behavior, etc.
+
+
+
+
+* Footnotes
+* COMMENT Local Variables
+# Local Variables:
+# org-hugo-footer: "\n\n[//]: # \"Exported with love from a post written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
+# End:
