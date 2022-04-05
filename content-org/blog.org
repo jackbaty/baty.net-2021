@@ -59,28 +59,20 @@ I'm an impressionable young man, and when I notice someone on The Internet ravin
 
 #+attr_html: :class imgRightMargin
 #+caption: Your host, Jack Baty
-[[./jack-headshot-500.jpg]]
+[[./jack-headshot-250.jpg]]
 
-I created this site as a place to capture the things I’m thinking about throughout each day.
-
-There isn’t a specific topic, or trend, or brand, or goal here. It can be pretty mundane.
+I was a web developer, project manager, and partner at Fusionary Media from 1995 until we sold the company in 2020. I’m currently on a temporary sabbatical. If there’s anything you think I could do for you, let me know.
+My favorite things are photography and tinkering on the web.
 
 💌 Reach out via *email*: [[mailto:jack@baty.net][jack@baty.net]]
 
-My primary *blog* is at [[https://baty.net][baty.net]] \\
-The *wiki* is at [[https://wiki.baty.net][wiki.baty.net]]
+I maintain a *wiki* at [[https://wiki.baty.net][wiki.baty.net]]
 
 *Do not expect consistency*.
 
 #+begin_export html
 <br clear="all">
 #+end_export
-
-** Other things
-- [[/index.xml][RSS Feed]]
-- [[/changelog][Changelog]] of changes to this site's structure, behavior, etc.
-
-
 
 
 * Footnotes

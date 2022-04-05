@@ -119,3 +119,7 @@ blockquote p:last-of-type a, blockquote p:last-of-type {
 blockquote p:last-of-type a, blockquote p:last-of-type::before {
     content: "\2014 ";
 }
+
+figure.imgRightMargin {
+  float: right;
+}
