@@ -3,7 +3,7 @@ title: All-in with Flickr (again)
 author: Jack
 date: 2020-11-20T13:03:29+00:00
 url: /2020/all-in-with-flickr-again/
-featuredImage: http://baty.net/wp-content/uploads/2020/11/flickr_logo-500x500-1.png
+featuredImage: /wp-content/uploads/2020/11/flickr_logo-500x500-1.png
 categories:
   - Misc
 

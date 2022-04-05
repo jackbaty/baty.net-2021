@@ -3,7 +3,7 @@ title: The Leica SL2-S = InstaBuy!
 author: Jack
 date: 2020-12-10T21:26:40+00:00
 url: /2020/the-leica-sl2-s-instabuy/
-featuredImage: http://baty.net/wp-content/uploads/2020/12/sl2-s.jpg
+featuredImage: /wp-content/uploads/2020/12/sl2-s.jpg
 categories:
   - Misc
 tags:

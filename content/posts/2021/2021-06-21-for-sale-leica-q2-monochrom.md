@@ -3,7 +3,7 @@ title: 'SOLD: Leica Q2 Monochrom'
 author: Jack
 date: 2021-06-21T12:28:28+00:00
 url: /2021/for-sale-leica-q2-monochrom/
-featuredImage: http://baty.net/wp-content/uploads/2021/06/L1000407.jpg
+featuredImage: /wp-content/uploads/2021/06/L1000407.jpg
 categories:
   - Misc
 tags:
@@ -12,7 +12,7 @@ tags:
   - Q2M
 
 ---
-<!--kg-card-begin: html-->
+
 
 I purchased the Leica Q2 Monochrom (new) from [Camera West][1] in February 2021. It’s in like new condition and has fewer than 600 shutter actuations. **Price is $5,100 net to me**. That’s a savings of $1,000 off the price of a new one.
 

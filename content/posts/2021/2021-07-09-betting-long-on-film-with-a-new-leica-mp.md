@@ -3,7 +3,7 @@ title: Betting long on film with a new Leica MP
 author: Jack
 date: 2021-07-09T13:43:28+00:00
 url: /2021/betting-long-on-film-with-a-new-leica-mp/
-featuredImage: http://baty.net/wp-content/uploads/2021/07/2021-07-09-L1000570.jpg
+featuredImage: /wp-content/uploads/2021/07/2021-07-09-L1000570.jpg
 categories:
   - Misc
 tags:
@@ -12,7 +12,8 @@ tags:
   - Leica MP
 
 ---
-<!--kg-card-begin: html-->I enjoy both film and digital photography, but the pendulum has been swinging toward film recently, and I&#8217;ve been having a ball.
+
+I enjoy both film and digital photography, but the pendulum has been swinging toward film recently, and I&#8217;ve been having a ball.
 
 I&#8217;ve finally dialed in a film processing, scanning, and editing workflow that works and that I don&#8217;t hate. What&#8217;s more, I&#8217;ve been studying my recent film photos and I really like them. I like that they&#8217;re not so perfect that zooming in to 100% is useful. I like the defects and unpredictability. I like the process. But most of all, I like the cameras. Specifically, I like Leica rangefinders.
 
@@ -38,11 +39,13 @@ Then, on a whim, I looked for one at [Camera West][4]. I&#8217;ve purchased from
 
 So that happened.
 
-The camera arrived today and I&#8217;ve never seen anything so beautiful. It&#8217;s perfect. It&#8217;s new, warrantied, flawless, and mine. My long bet on film begins today.<figure class="wp-block-image size-large">
+The camera arrived today and I&#8217;ve never seen anything so beautiful. It&#8217;s perfect. It&#8217;s new, warrantied, flawless, and mine. My long bet on film begins today.
 
-<img loading="lazy" width="700" height="560" src="/content/images/wordpress/2021/07/2021-07-09-L1000590.jpg" alt="" class="wp-image-774" srcset="/content/images/wordpress/2021/07/2021-07-09-L1000590.jpg 700w, /content/images/wordpress/2021/07/2021-07-09-L1000590-300x240.jpg 300w, /content/images/wordpress/2021/07/2021-07-09-L1000590-768x614.jpg 768w, /content/images/wordpress/2021/07/2021-07-09-L1000590-1536x1229.jpg 1536w, /content/images/wordpress/2021/07/2021-07-09-L1000590-450x360.jpg 450w, /content/images/wordpress/2021/07/2021-07-09-L1000590-1024x819.jpg 1024w, /content/images/wordpress/2021/07/2021-07-09-L1000590-750x600.jpg 750w, /content/images/wordpress/2021/07/2021-07-09-L1000590.jpg 2048w" sizes="(max-width: 700px) 100vw, 700px" /> <figcaption>Leica MP with Summilux-M 50mm ASPH</figcaption></figure> <figure class="wp-block-image size-large"><img loading="lazy" width="700" height="467" src="/content/images/wordpress/2021/07/2021-07-09-L1000575.jpg" alt="" class="wp-image-778" srcset="/content/images/wordpress/2021/07/2021-07-09-L1000575.jpg 700w, /content/images/wordpress/2021/07/2021-07-09-L1000575-300x200.jpg 300w, /content/images/wordpress/2021/07/2021-07-09-L1000575-768x512.jpg 768w, /content/images/wordpress/2021/07/2021-07-09-L1000575-1536x1024.jpg 1536w, /content/images/wordpress/2021/07/2021-07-09-L1000575-450x300.jpg 450w, /content/images/wordpress/2021/07/2021-07-09-L1000575-1024x683.jpg 1024w, /content/images/wordpress/2021/07/2021-07-09-L1000575-900x600.jpg 900w, /content/images/wordpress/2021/07/2021-07-09-L1000575.jpg 2048w" sizes="(max-width: 700px) 100vw, 700px" /></figure> 
+{{< image src="/content/images/wordpress/2021/07/2021-07-09-L1000590.jpg" caption="Leica MP with Summilux-M 50mm ASPH" >}}
 
-<!--kg-card-end: html-->
+{{< image src="/content/images/wordpress/2021/07/2021-07-09-L1000575.jpg" caption="" >}}
+
+
 
  [1]: https://leicacamerausa.com/m-a-typ-127-black.html
  [2]: https://leicacamerausa.com/mp-0-72-black.html

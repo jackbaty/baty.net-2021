@@ -3,7 +3,7 @@ title: Doom Emacs from scratch
 author: Jack
 date: 2021-03-10T15:38:32+00:00
 url: /2021/doom-emacs-from-scratch/
-featuredImage: http://baty.net/wp-content/uploads/2021/03/doom.png
+featuredImage: /wp-content/uploads/2021/03/doom.png
 categories:
   - Misc
 tags:

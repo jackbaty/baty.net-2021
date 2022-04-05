@@ -3,7 +3,7 @@ title: Photo processing workflow updates
 author: Jack
 date: 2021-08-17T11:13:07+00:00
 url: /2021/photo-processing-workflow-updates/
-featuredImage: http://baty.net/wp-content/uploads/2021/08/pm.png
+featuredImage: /wp-content/uploads/2021/08/pm.png
 categories:
   - Misc
 tags:

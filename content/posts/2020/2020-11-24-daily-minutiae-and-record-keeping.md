@@ -3,7 +3,7 @@ title: Daily minutiae and record keeping
 author: Jack
 date: 2020-11-24T12:28:24+00:00
 url: /2020/daily-minutiae-and-record-keeping/
-featuredImage: http://baty.net/wp-content/uploads/2020/11/minutiae-apps.png
+featuredImage: /wp-content/uploads/2020/11/minutiae-apps.png
 categories:
   - Misc
 tags:

@@ -3,7 +3,7 @@ title: "Leica lenses, my how you've grown"
 author: Jack
 date: 2021-10-12T12:39:43+00:00
 url: /2021/lenses-my-how-youve-grown/
-featuredImage: http://baty.net/wp-content/uploads/2021/10/20211012-L1000251.jpg
+featuredImage: /wp-content/uploads/2021/10/20211012-L1000251.jpg
 categories:
   - Misc
   - Photography

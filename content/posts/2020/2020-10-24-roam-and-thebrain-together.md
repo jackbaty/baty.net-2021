@@ -3,7 +3,7 @@ title: Roam and TheBrain, together
 author: Jack
 date: 2020-10-24T12:23:33+00:00
 url: /2020/roam-and-thebrain-together/
-featuredImage: http://baty.net/wp-content/uploads/2020/10/thebrain-and-roam.jpg
+featuredImage: /wp-content/uploads/2020/10/thebrain-and-roam.jpg
 categories:
   - Misc
 tags:

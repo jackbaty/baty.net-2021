@@ -3,7 +3,7 @@ title: A variety of 35mm SLR film cameras
 author: Jack
 date: 2020-10-31T20:17:11+00:00
 url: /2020/a-variety-of-35mm-film-cameras/
-featuredImage: http://baty.net/wp-content/uploads/2020/10/2021-Roll-001-27-Film-cameras.jpg
+featuredImage: /wp-content/uploads/2020/10/2021-Roll-001-27-Film-cameras.jpg
 categories:
   - Misc
 tags:

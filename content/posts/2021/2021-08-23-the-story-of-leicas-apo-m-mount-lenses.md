@@ -3,7 +3,7 @@ title: The story of Leica’s APO M-mount lenses – Macfilos
 author: Jack
 date: 2021-08-23T10:59:40+00:00
 url: /2021/the-story-of-leicas-apo-m-mount-lenses/
-featuredImage: http://baty.net/wp-content/uploads/2021/08/j1000786.jpg
+featuredImage: /wp-content/uploads/2021/08/j1000786.jpg
 categories:
   - Misc
 tags:

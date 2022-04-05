@@ -3,7 +3,7 @@ title: What makes a good family photograph?
 author: Jack
 date: 2022-01-12T12:48:42+00:00
 url: /2022/what-makes-a-good-family-photograph/
-featuredImage: http://baty.net/wp-content/uploads/2022/01/2021-Roll-047_24.jpg
+featuredImage: /wp-content/uploads/2022/01/2021-Roll-047_24.jpg
 categories:
   - Photography
 

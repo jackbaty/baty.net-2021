@@ -3,7 +3,7 @@ title: Visual Meditation
 author: Jack
 date: 2022-02-15T13:56:00+00:00
 url: /2022/visual-meditation/
-featuredImage: http://baty.net/wp-content/uploads/2022/02/20220215-R0002082.jpg
+featuredImage: /wp-content/uploads/2022/02/20220215-R0002082.jpg
 categories:
   - Uncategorized
 tags:

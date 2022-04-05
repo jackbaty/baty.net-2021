@@ -3,7 +3,7 @@ title: The "charm" of vintage lenses
 author: Jack
 date: 2021-08-25T08:44:28+00:00
 url: /2021/the-charm-of-vintage-lenses/
-featuredImage: http://baty.net/wp-content/uploads/2021/08/L1000804.jpg
+featuredImage: /wp-content/uploads/2021/08/L1000804.jpg
 categories:
   - Misc
 tags:

@@ -3,7 +3,7 @@ title: I get bored
 author: Jack
 date: 2022-01-06T17:54:26+00:00
 url: /2022/i-get-bored/
-featuredImage: http://baty.net/wp-content/uploads/2022/01/20220105-Q1000077.jpg
+featuredImage: /wp-content/uploads/2022/01/20220105-Q1000077.jpg
 categories:
   - Photography
 

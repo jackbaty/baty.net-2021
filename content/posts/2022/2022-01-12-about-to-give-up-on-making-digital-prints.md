@@ -4,7 +4,7 @@ author: Jack
 date: 2022-01-12T21:13:49+00:00
 excerpt: "Apparently I don't know the correct incantations required in order to coax a decent print out of my inkjet printer."
 url: /2022/about-to-give-up-on-making-digital-prints/
-featuredImage: http://baty.net/wp-content/uploads/2022/01/20220112-R0002021A.jpg
+featuredImage: /wp-content/uploads/2022/01/20220112-R0002021A.jpg
 categories:
   - Photography
 

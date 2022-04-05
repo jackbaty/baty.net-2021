@@ -3,7 +3,7 @@ title: Keeping the Leica SL
 author: Jack
 date: 2021-02-08T22:39:55+00:00
 url: /2021/keeping-the-sl/
-featuredImage: http://baty.net/wp-content/uploads/2021/02/R0001000-1_o-1-scaled-1.jpg
+featuredImage: /wp-content/uploads/2021/02/R0001000-1_o-1-scaled-1.jpg
 categories:
   - Misc
 tags:

@@ -4,7 +4,7 @@ author: Jack
 date: 2021-11-12T10:49:47+00:00
 excerpt: A few from the most recent roll from of the Leica MP. It’s HP5 Plus, processed in HC-110 (dilution B) for 5 minutes. Scanned on the PrimeFilm XAs.
 url: /2021/from-roll-040-leica-mp/
-featuredImage: http://baty.net/wp-content/uploads/2021/11/2021-Roll-040-01-1.jpg
+featuredImage: /wp-content/uploads/2021/11/2021-Roll-040-01-1.jpg
 categories:
   - Photography
 tags:

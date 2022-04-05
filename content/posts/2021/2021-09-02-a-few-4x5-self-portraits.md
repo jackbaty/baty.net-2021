@@ -3,7 +3,7 @@ title: A few 4×5 self-portraits
 author: Jack
 date: 2021-09-02T20:16:54+00:00
 url: /2021/a-few-4x5-self-portraits/
-featuredImage: http://baty.net/wp-content/uploads/2021/09/2021-LF038-flickr.jpg
+featuredImage: /wp-content/uploads/2021/09/2021-LF038-flickr.jpg
 categories:
   - Misc
 tags:

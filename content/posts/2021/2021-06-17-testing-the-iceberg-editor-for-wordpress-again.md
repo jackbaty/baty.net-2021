@@ -3,7 +3,7 @@ title: Testing the Iceberg editor for WordPress…again
 author: Jack
 date: 2021-06-17T09:44:27+00:00
 url: /2021/testing-the-iceberg-editor-for-wordpress-again/
-featuredImage: http://baty.net/wp-content/uploads/2021/06/CleanShot-2021-06-17-at-09.44.05.png
+featuredImage: /wp-content/uploads/2021/06/CleanShot-2021-06-17-at-09.44.05.png
 categories:
   - Misc
 tags:

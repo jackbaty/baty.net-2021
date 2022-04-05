@@ -3,7 +3,7 @@ title: From Roll 2021-026 (Leica M3/HP5 Plus)
 author: Jack
 date: 2021-08-26T15:41:09+00:00
 url: /2021/from-roll-2021-026-leica-m3-hp5-plus/
-featuredImage: http://baty.net/wp-content/uploads/2021/08/2021-Roll-026-010.jpg
+featuredImage: /wp-content/uploads/2021/08/2021-Roll-026-010.jpg
 categories:
   - Photography
 tags:

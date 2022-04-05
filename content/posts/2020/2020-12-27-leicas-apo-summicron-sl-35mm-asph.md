@@ -3,14 +3,14 @@ title: The Leica APO-Summicron-SL 35mm f/2 ASPH Lens
 author: Jack
 date: 2020-12-27T21:03:28+00:00
 url: /2020/leicas-apo-summicron-sl-35mm-asph/
-featuredImage: http://baty.net/wp-content/uploads/2020/12/leica-apo-summicron-sl-35-asph.jpg
+featuredImage: /wp-content/uploads/2020/12/leica-apo-summicron-sl-35-asph.jpg
 categories:
   - Misc
 tags:
   - Leica
 
 ---
-<!--kg-card-begin: html-->I recently bought a used, 
+I recently bought a used, 
 
 [5-year-old Leica SL][1]. I didn&#8217;t buy any new lenses at the time, as I wasn&#8217;t sure I&#8217;d even like the camera. Turns out I liked the camera very much, so I ordered a Sigma 24-70 f2.8 zoom. I figured the zoom would cover my bases but I also bought the Leica M-to-L adapter so I could use my Leica M lenses.
 
@@ -18,24 +18,23 @@ The M lenses work flawlessly on the SL, and are even easier to focus on it, give
 
 The Sigma zoom is fine, but I _really_ wanted a Leica native SL lens. And I wanted a prime. But what focal length should I get? Since I can only afford one lens (by &#8220;afford&#8221; I mean sell off most of my other gear to pay for it), I opted for the [APO-Summicron-SL 35mm f/2 ASPH][2]. I can never decide which length I prefer, 50mm or 35mm, but I went with the 35 because I feel it&#8217;s just a tad more flexible.
 
-I must admit that hearing Peter Karbe, Leica&#8217;s designer of the M and SL lens lines, say that the APO-Summicron-SL 35mm is his favorite Leica lens and that it might be the best lens Leica has ever made helped push me over the edge. You can listen to Peter go into glorious technical detail about the SL lenses for like an hour and a half in this video.<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"> 
+I must admit that hearing Peter Karbe, Leica&#8217;s designer of the M and SL lens lines, say that the APO-Summicron-SL 35mm is his favorite Leica lens and that it might be the best lens Leica has ever made helped push me over the edge. You can listen to Peter go into glorious technical detail about the SL lenses for like an hour and a half in this video.
 
-<div class="wp-block-embed__wrapper">
-  <div class="jetpack-video-wrapper">
-  </div>
-</div></figure> 
 
-The lens arrived a few days ago and so far all I can say is that my first impressions are that it has easily exceeded my high expectations. It&#8217;s beautiful, and the construction and feel of it are just wonderful.<figure class="wp-block-image size-large kg-card kg-image-card">
+The lens arrived a few days ago and so far all I can say is that my first impressions are that it has easily exceeded my high expectations. It&#8217;s beautiful, and the construction and feel of it are just wonderful.
 
-<img loading="lazy" width="1024" height="819" src="https://new.copingmechanism.com/wp-content/uploads/2021/03/50756064542_a14345177b_o-1024x819.jpg" alt="" class="wp-image-105" srcset="/content/images/wordpress/2021/03/50756064542_a14345177b_o-1024x819.jpg 1024w, /content/images/wordpress/2021/03/50756064542_a14345177b_o-300x240.jpg 300w, /content/images/wordpress/2021/03/50756064542_a14345177b_o-768x614.jpg 768w, /content/images/wordpress/2021/03/50756064542_a14345177b_o-1536x1229.jpg 1536w, /content/images/wordpress/2021/03/50756064542_a14345177b_o-1200x960.jpg 1200w, /content/images/wordpress/2021/03/50756064542_a14345177b_o-1980x1584.jpg 1980w, /content/images/wordpress/2021/03/50756064542_a14345177b_o.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+{{< image src="/content/images/wordpress/2021/03/50756064542_a14345177b_o-1024x819.jpg" caption="" >}}
 
-The SL lenses are significantly larger than the M lenses I&#8217;m used to. Here is a photo showing the size difference between the tiny, jewel-like Summicron-M 35mm f/2 ASPH and this new 35mm f/2 SL.<figure class="wp-block-image size-large kg-card kg-image-card kg-card-hascaption">
 
-<img loading="lazy" width="1024" height="682" src="https://new.copingmechanism.com/wp-content/uploads/2021/03/50765522028_683f5e3fdd_o-1024x682.jpg" alt="" class="wp-image-107" srcset="/content/images/wordpress/2021/03/50765522028_683f5e3fdd_o-1024x682.jpg 1024w, /content/images/wordpress/2021/03/50765522028_683f5e3fdd_o-300x200.jpg 300w, /content/images/wordpress/2021/03/50765522028_683f5e3fdd_o-768x512.jpg 768w, /content/images/wordpress/2021/03/50765522028_683f5e3fdd_o-1536x1024.jpg 1536w, /content/images/wordpress/2021/03/50765522028_683f5e3fdd_o-1200x800.jpg 1200w, /content/images/wordpress/2021/03/50765522028_683f5e3fdd_o-1980x1320.jpg 1980w, /content/images/wordpress/2021/03/50765522028_683f5e3fdd_o.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Summicron-M 35mm f/2 ASPH vs the APO-Summicron-SL 35mm f/2 SL ASPH</figcaption></figure> 
+The SL lenses are significantly larger than the M lenses I&#8217;m used to. Here is a photo showing the size difference between the tiny, jewel-like Summicron-M 35mm f/2 ASPH and this new 35mm f/2 SL
 
-A nice feature of the SL lenses is close focusing distance. The SL lenses are more useful close up. For example the SL can focus down to 27 cm while the Summicron-M can only get to within 70 cm. That matters a lot more often than one might think.<figure class="wp-block-image size-large kg-card kg-image-card kg-card-hascaption">
+{{< image src="/content/images/wordpress/2021/03/50765522028_683f5e3fdd_o-1024x682.jpg" caption="Summicron-M 35mm f/2 ASPH vs the APO-Summicron-SL 35mm f/2 SL ASPH" >}}
 
-<img loading="lazy" width="1024" height="819" src="https://new.copingmechanism.com/wp-content/uploads/2021/03/50756490692_4de847dd44_o-1024x819.jpg" alt="" class="wp-image-106" srcset="/content/images/wordpress/2021/03/50756490692_4de847dd44_o-1024x819.jpg 1024w, /content/images/wordpress/2021/03/50756490692_4de847dd44_o-300x240.jpg 300w, /content/images/wordpress/2021/03/50756490692_4de847dd44_o-768x614.jpg 768w, /content/images/wordpress/2021/03/50756490692_4de847dd44_o-1536x1228.jpg 1536w, /content/images/wordpress/2021/03/50756490692_4de847dd44_o-1200x959.jpg 1200w, /content/images/wordpress/2021/03/50756490692_4de847dd44_o.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Getting closer with the SL</figcaption></figure> 
+
+A nice feature of the SL lenses is close focusing distance. The SL lenses are more useful close up. For example the SL can focus down to 27 cm while the Summicron-M can only get to within 70 cm. That matters a lot more often than one might think.
+
+{{< image src="/content/images/wordpress/2021/03/50756490692_4de847dd44_o-1024x819.jpg" caption="Getting closer with the SL" >}}
+
 
 What about image quality? Good question. I don&#8217;t know much yet, as I&#8217;ve only been plinking around the house. What I do know is that the few images I&#8217;ve taken have looked fantastic. Most decent modern lenses make great images, but I have convinced myself that the files coming out of the SL with the APO-Summicron are somehow even better. To my eyes, they are noticably, meaningfully better, and that&#8217;s the only criteria I need.
 

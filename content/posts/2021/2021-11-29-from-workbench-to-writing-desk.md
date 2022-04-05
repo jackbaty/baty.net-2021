@@ -4,7 +4,7 @@ author: Jack
 date: 2021-11-29T10:57:00+00:00
 excerpt: "I've admitted to myself that I don't really need a workbench, so now it's a standup writing desk."
 url: /2021/from-workbench-to-writing-desk/
-featuredImage: http://baty.net/wp-content/uploads/2021/11/20211126-R0001841.jpg
+featuredImage: /wp-content/uploads/2021/11/20211126-R0001841.jpg
 categories:
   - Life
 tags:

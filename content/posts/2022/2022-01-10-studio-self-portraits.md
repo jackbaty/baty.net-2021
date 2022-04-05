@@ -3,7 +3,7 @@ title: Studio self-portraits
 author: Jack
 date: 2022-01-11T00:05:36+00:00
 url: /2022/studio-self-portraits/
-featuredImage: http://baty.net/wp-content/uploads/2022/01/2022-Roll-050_13-scaled-1.jpg
+featuredImage: /wp-content/uploads/2022/01/2022-Roll-050_13-scaled-1.jpg
 categories:
   - Photography
 tags:

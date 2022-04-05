@@ -3,7 +3,7 @@ title: "Using the current book's cover as lock screen on my Kindle"
 author: Jack
 date: 2021-04-18T11:36:38+00:00
 url: /2021/using-the-current-books-cover-as-lock-screen-on-my-kindle/
-featuredImage: http://baty.net/wp-content/uploads/2021/04/R0001160.jpg
+featuredImage: /wp-content/uploads/2021/04/R0001160.jpg
 categories:
   - Misc
 tags:

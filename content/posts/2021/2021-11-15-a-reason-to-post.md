@@ -3,7 +3,7 @@ title: A reason to post?
 author: Jack
 date: 2021-11-15T17:36:31+00:00
 url: /2021/a-reason-to-post/
-featuredImage: http://baty.net/wp-content/uploads/2021/11/2021-Roll-026-028.jpg
+featuredImage: /wp-content/uploads/2021/11/2021-Roll-026-028.jpg
 categories:
   - Misc
 tags:

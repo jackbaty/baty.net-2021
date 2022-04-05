@@ -3,7 +3,7 @@ title: From Roll 2021-028 (Leica IIIf/XP2)
 author: Jack
 date: 2021-09-08T05:29:52+00:00
 url: /2021/from-roll-2021-028-leica-iiif-xp2/
-featuredImage: http://baty.net/wp-content/uploads/2021/09/2021-Roll-028-15.jpg
+featuredImage: /wp-content/uploads/2021/09/2021-Roll-028-15.jpg
 categories:
   - Photography
 tags:

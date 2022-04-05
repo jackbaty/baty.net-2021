@@ -3,7 +3,7 @@ title: Plain text can’t save you if you lose the files
 author: Jack
 date: 2022-03-05T19:00:18+00:00
 url: /2022/plain-text-files-cant-save-you-if-you-lose-them/
-featuredImage: http://baty.net/wp-content/uploads/2022/03/shrug.svg
+featuredImage: /wp-content/uploads/2022/03/shrug.svg
 categories:
   - Software
 

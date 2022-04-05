@@ -3,7 +3,7 @@ title: TiddlyWiki is more fun than Roam
 author: Jack
 date: 2020-11-22T17:26:16+00:00
 url: /2020/tiddlywiki-is-more-fun-than-roam/
-featuredImage: http://baty.net/wp-content/uploads/2020/11/tiddlywiki.ed92c169560644028f1da2101d928e2d.png
+featuredImage: /wp-content/uploads/2020/11/tiddlywiki.ed92c169560644028f1da2101d928e2d.png
 categories:
   - Misc
 tags:

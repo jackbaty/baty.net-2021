@@ -3,7 +3,7 @@ title: 4×5 Self-portrait with strobe
 author: Jack
 date: 2020-10-25T12:29:10+00:00
 url: /2020/4x5-self-portrait-with-strobe/
-featuredImage: http://baty.net/wp-content/uploads/2020/10/DSCF5310.jpg
+featuredImage: /wp-content/uploads/2020/10/DSCF5310.jpg
 categories:
   - Misc
 tags:

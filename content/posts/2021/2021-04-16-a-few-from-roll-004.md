@@ -3,7 +3,7 @@ title: A few from Roll-004
 author: Jack
 date: 2021-04-16T06:08:36+00:00
 url: /2021/a-few-from-roll-004/
-featuredImage: http://baty.net/wp-content/uploads/2021/04/2021-Roll-004-19-Walking-path.jpg
+featuredImage: /wp-content/uploads/2021/04/2021-Roll-004-19-Walking-path.jpg
 categories:
   - Misc
 tags:

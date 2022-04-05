@@ -3,7 +3,7 @@ title: Random Images – Lunch at Founders
 author: Jack
 date: 2021-12-11T15:40:12+00:00
 url: /2021/random-images-lunch-at-founders/
-featuredImage: http://baty.net/wp-content/uploads/2021/12/20211210-M10R0122.jpg
+featuredImage: /wp-content/uploads/2021/12/20211210-M10R0122.jpg
 categories:
   - Photography
 tags:

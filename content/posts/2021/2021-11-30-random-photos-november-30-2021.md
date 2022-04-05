@@ -3,7 +3,7 @@ title: Random images – November 30, 2021
 author: Jack
 date: 2021-11-30T23:39:30+00:00
 url: /2021/random-photos-november-30-2021/
-featuredImage: http://baty.net/wp-content/uploads/2021/11/20211130-L1000502.jpg
+featuredImage: /wp-content/uploads/2021/11/20211130-L1000502.jpg
 categories:
   - Photography
 tags:

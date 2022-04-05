@@ -4,7 +4,7 @@ author: Jack
 date: 2022-03-01T11:43:59+00:00
 excerpt: "There are things that I dislike about shooting film, but processing isn't one of them. I actually enjoy it."
 url: /2022/i-enjoy-processing-film/
-featuredImage: http://baty.net/wp-content/uploads/2022/03/2022-Roll-55_31.jpg
+featuredImage: /wp-content/uploads/2022/03/2022-Roll-55_31.jpg
 wabi_accentColor:
   - is-quarternary-accent
 categories:

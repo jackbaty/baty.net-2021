@@ -3,7 +3,7 @@ title: "My new note-taking system: Don't take notes."
 author: Jack
 date: 2021-04-12T18:58:43+00:00
 url: /2021/my-new-note-taking-system-dont-take-notes/
-featuredImage: http://baty.net/wp-content/uploads/2021/04/2021-04-12-crumpled-paper.jpg
+featuredImage: /wp-content/uploads/2021/04/2021-04-12-crumpled-paper.jpg
 categories:
   - Misc
 tags:

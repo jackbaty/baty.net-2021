@@ -3,7 +3,7 @@ title: The (Leica) band is back together
 author: Jack
 date: 2021-09-03T14:46:29+00:00
 url: /2021/the-leica-band-is-back-together/
-featuredImage: http://baty.net/wp-content/uploads/2021/09/R0001573.jpg
+featuredImage: /wp-content/uploads/2021/09/R0001573.jpg
 categories:
   - Misc
 tags:

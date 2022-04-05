@@ -3,7 +3,7 @@ title: A visual thinker using text-based tools
 author: Jack
 date: 2021-06-18T09:54:41+00:00
 url: /2021/a-visual-thinker-using-text-based-tools/
-featuredImage: http://baty.net/wp-content/uploads/2021/06/wall.png
+featuredImage: /wp-content/uploads/2021/06/wall.png
 categories:
   - Misc
 tags:

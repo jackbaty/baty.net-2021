@@ -3,7 +3,7 @@ title: Feelings about the Leica M10-R
 author: Jack
 date: 2022-03-17T09:56:20+00:00
 url: /2022/feelings-about-the-leica-m10-r/
-featuredImage: http://baty.net/wp-content/uploads/2022/03/20211222-L1000679-Edit.jpg
+featuredImage: /wp-content/uploads/2022/03/20211222-L1000679-Edit.jpg
 categories:
   - Photography
 tags:

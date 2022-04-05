@@ -3,7 +3,7 @@ title: The Linhof Master Technika
 author: Jack
 date: 2021-07-28T06:52:39+00:00
 url: /2021/linhof-master-technika/
-featuredImage: http://baty.net/wp-content/uploads/2021/07/L1000674.jpg
+featuredImage: /wp-content/uploads/2021/07/L1000674.jpg
 categories:
   - Misc
 tags:

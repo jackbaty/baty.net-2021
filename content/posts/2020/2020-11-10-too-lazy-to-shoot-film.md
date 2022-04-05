@@ -3,7 +3,7 @@ title: Am I losing interest in shooting film?
 author: Jack
 date: 2020-11-10T12:16:08+00:00
 url: /2020/too-lazy-to-shoot-film/
-featuredImage: http://baty.net/wp-content/uploads/2020/11/DSCF5319.jpg
+featuredImage: /wp-content/uploads/2020/11/DSCF5319.jpg
 categories:
   - Misc
 tags:

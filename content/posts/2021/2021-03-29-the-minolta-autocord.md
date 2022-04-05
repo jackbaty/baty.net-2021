@@ -3,7 +3,7 @@ title: The Minolta Autocord
 author: Jack
 date: 2021-03-29T15:31:43+00:00
 url: /2021/the-minolta-autocord/
-featuredImage: http://baty.net/wp-content/uploads/2021/03/2021-03-29-Minolta-Autocord-2.jpg
+featuredImage: /wp-content/uploads/2021/03/2021-03-29-Minolta-Autocord-2.jpg
 categories:
   - Misc
 tags:

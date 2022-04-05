@@ -3,7 +3,7 @@ title: 'Large Format: Challenges'
 author: Jack
 date: 2021-08-04T13:39:39+00:00
 url: /2021/4x5-challenges/
-featuredImage: http://baty.net/wp-content/uploads/2021/08/img20210804_09080776.jpg
+featuredImage: /wp-content/uploads/2021/08/img20210804_09080776.jpg
 categories:
   - Misc
 tags:

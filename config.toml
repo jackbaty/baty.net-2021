@@ -153,7 +153,7 @@ theme = "codeit"
   #  List (category or tag) page config
   [params.list]
     # special amount of posts in each list page
-    paginate = 20
+    paginate = 2000
     # date format (month and day)
     dateFormat = "Jan 02"
     # amount of RSS pages

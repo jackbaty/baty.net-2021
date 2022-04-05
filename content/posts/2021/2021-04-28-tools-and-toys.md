@@ -3,7 +3,7 @@ title: Tools and Toys
 author: Jack
 date: 2021-04-28T10:14:22+00:00
 url: /2021/tools-and-toys/
-featuredImage: http://baty.net/wp-content/uploads/2021/04/toy-story-toybox.jpg
+featuredImage: /wp-content/uploads/2021/04/toy-story-toybox.jpg
 categories:
   - Misc
 tags:
@@ -23,6 +23,8 @@ tags:
     <a href="https://micro.blog/Ron/11366090">@ron on micro.blog</a>
   </p>
 </blockquote>
+
+
 
 Ron was referring to my still-forming opinions about the reMarkable tablet, but he could be referring to any number of things. I have a reputation for frequently changing up my process/tools/systems/workflows/what-have-you. This reputation is not unfounded, but for some reason I feel the need to explain (defend?) myself.
 

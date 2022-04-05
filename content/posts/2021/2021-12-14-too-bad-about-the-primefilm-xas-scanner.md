@@ -3,7 +3,7 @@ title: Too bad about the PrimeFilm XAs Scanner
 author: Jack
 date: 2021-12-14T11:59:00+00:00
 url: /2021/too-bad-about-the-primefilm-xas-scanner/
-featuredImage: http://baty.net/wp-content/uploads/2021/12/primefilmxas.jpg
+featuredImage: /wp-content/uploads/2021/12/primefilmxas.jpg
 categories:
   - Photography
 tags:

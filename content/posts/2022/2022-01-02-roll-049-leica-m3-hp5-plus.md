@@ -3,7 +3,7 @@ title: 'Roll-049: (Leica M3/HP5 Plus)'
 author: Jack
 date: 2022-01-02T20:16:59+00:00
 url: /2022/roll-049-leica-m3-hp5-plus/
-featuredImage: http://baty.net/wp-content/uploads/2022/01/2021-Roll-049_24.jpg
+featuredImage: /wp-content/uploads/2022/01/2021-Roll-049_24.jpg
 categories:
   - Photography
 tags:

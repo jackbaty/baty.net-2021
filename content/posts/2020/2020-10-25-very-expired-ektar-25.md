@@ -3,7 +3,7 @@ title: Very expired Ektar 25
 author: Jack
 date: 2020-10-25T21:08:45+00:00
 url: /2020/very-expired-ektar-25/
-featuredImage: http://baty.net/wp-content/uploads/2020/10/2020-10-25-Kodak-Ektar-25-002.jpg
+featuredImage: /wp-content/uploads/2020/10/2020-10-25-Kodak-Ektar-25-002.jpg
 categories:
   - Misc
 tags:

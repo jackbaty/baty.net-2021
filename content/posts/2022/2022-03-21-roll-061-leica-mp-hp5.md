@@ -5,7 +5,7 @@ date: 2022-03-21T10:04:46+00:00
 excerpt: |
   As usual, this roll contained a few self-portraits, a few of Alice, and a few of "stuff". My favorites are the ones taken in my dad's garage.
 url: /2022/roll-061-leica-mp-hp5/
-featuredImage: http://baty.net/wp-content/uploads/2022/03/2022-Roll-61_30-1.jpg
+featuredImage: /wp-content/uploads/2022/03/2022-Roll-61_30-1.jpg
 wabi_accentColor:
   - is-tertiary-accent
 categories:

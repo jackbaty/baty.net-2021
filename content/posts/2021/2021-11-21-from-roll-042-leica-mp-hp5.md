@@ -3,7 +3,7 @@ title: From Roll 042 (Leica MP/HP5)
 author: Jack
 date: 2021-11-21T12:54:55+00:00
 url: /2021/from-roll-042-leica-mp-hp5/
-featuredImage: http://baty.net/wp-content/uploads/2021/11/2021-Roll-042-34-2.jpg
+featuredImage: /wp-content/uploads/2021/11/2021-Roll-042-34-2.jpg
 categories:
   - Photography
 tags:

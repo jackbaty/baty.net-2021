@@ -3,7 +3,7 @@ title: 'Old film challenge: Use it.'
 author: Jack
 date: 2021-08-21T09:53:57+00:00
 url: /2021/old-film-challenge-use-it/
-featuredImage: http://baty.net/wp-content/uploads/2021/08/R0001523.jpg
+featuredImage: /wp-content/uploads/2021/08/R0001523.jpg
 categories:
   - Misc
 tags:

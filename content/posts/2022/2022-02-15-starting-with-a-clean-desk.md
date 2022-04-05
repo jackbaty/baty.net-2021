@@ -4,7 +4,7 @@ author: Jack
 date: 2022-02-15T14:04:00+00:00
 excerpt: "My home office environment was getting out of hand, clutter-wise. They say that a messy desk is the sign of a creative mind. Maybe so, but I'm more of a tidy desk person."
 url: /2022/starting-with-a-clean-desk/
-featuredImage: http://baty.net/wp-content/uploads/2022/02/20220214-Q1000302.jpg
+featuredImage: /wp-content/uploads/2022/02/20220214-Q1000302.jpg
 categories:
   - Uncategorized
 

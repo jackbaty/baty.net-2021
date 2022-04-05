@@ -3,7 +3,7 @@ title: Trying to live on the iPad for a while
 author: Jack
 date: 2021-06-23T09:44:31+00:00
 url: /2021/trying-to-live-on-the-ipad-for-a-while/
-featuredImage: http://baty.net/wp-content/uploads/2021/06/3B7FB422-F61C-4B89-A72D-01B6384F042C-scaled-1.jpeg
+featuredImage: /wp-content/uploads/2021/06/3B7FB422-F61C-4B89-A72D-01B6384F042C-scaled-1.jpeg
 categories:
   - Misc
 tags:

@@ -3,7 +3,7 @@ title: Highlighting in notebooks
 author: Jack
 date: 2022-02-25T20:10:43+00:00
 url: /2022/highlighting-in-notebooks/
-featuredImage: http://baty.net/wp-content/uploads/2022/02/IMG_0640.jpg
+featuredImage: /wp-content/uploads/2022/02/IMG_0640.jpg
 categories:
   - Misc
 tags:

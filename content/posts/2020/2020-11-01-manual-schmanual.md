@@ -3,7 +3,7 @@ title: Manual Schmanual
 author: Jack
 date: 2020-11-01T23:17:20+00:00
 url: /2020/manual-schmanual/
-featuredImage: http://baty.net/wp-content/uploads/2020/11/20141221_DSCF0939-edit.jpg
+featuredImage: /wp-content/uploads/2020/11/20141221_DSCF0939-edit.jpg
 categories:
   - Misc
 

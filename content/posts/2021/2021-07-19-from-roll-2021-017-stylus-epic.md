@@ -3,7 +3,7 @@ title: From Roll 2021-017 (Stylus Epic)
 author: Jack
 date: 2021-07-19T14:05:12+00:00
 url: /2021/from-roll-2021-017-stylus-epic/
-featuredImage: http://baty.net/wp-content/uploads/2021/07/2021-Roll-017-19.jpg
+featuredImage: /wp-content/uploads/2021/07/2021-Roll-017-19.jpg
 categories:
   - Misc
 tags:

@@ -3,7 +3,7 @@ title: From Roll 2021-018 (Portra 400 in Leica MP)
 author: Jack
 date: 2021-07-21T19:04:42+00:00
 url: /2021/from-roll-2021-018-portra-400-in-leica-mp/
-featuredImage: http://baty.net/wp-content/uploads/2021/07/2021-Roll-018-07.jpg
+featuredImage: /wp-content/uploads/2021/07/2021-Roll-018-07.jpg
 categories:
   - Misc
 tags:

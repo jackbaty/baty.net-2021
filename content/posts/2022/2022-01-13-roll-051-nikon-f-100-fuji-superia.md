@@ -3,7 +3,7 @@ title: 'Roll-051: (Nikon F-100/Fuji Superia)'
 author: Jack
 date: 2022-01-13T17:41:08+00:00
 url: /2022/roll-051-nikon-f-100-fuji-superia/
-featuredImage: http://baty.net/wp-content/uploads/2022/01/2022-Roll-051_10-positive.jpg
+featuredImage: /wp-content/uploads/2022/01/2022-Roll-051_10-positive.jpg
 categories:
   - Photography
 tags:

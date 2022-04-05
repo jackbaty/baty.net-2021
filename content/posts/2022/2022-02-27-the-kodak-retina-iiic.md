@@ -4,7 +4,7 @@ author: Jack
 date: 2022-02-27T10:53:30+00:00
 excerpt: 'My dad called and said that one of his neighbors had died and left a bunch of camera stuff to be given away or sold. He mentioned there was "some old Kodak" and wondered if I was interested in it. I said "Sure, why not" '
 url: /2022/the-kodak-retina-iiic/
-featuredImage: http://baty.net/wp-content/uploads/2022/02/20220226-Q1000366.jpg
+featuredImage: /wp-content/uploads/2022/02/20220226-Q1000366.jpg
 wabi_accentColor:
   - is-tertiary-accent
 categories:

@@ -3,7 +3,7 @@ title: reMarkable is sleeping
 author: Jack
 date: 2021-04-30T12:12:22+00:00
 url: /2021/remarkable-is-sleeping/
-featuredImage: http://baty.net/wp-content/uploads/2021/04/2021-04-30-reMarkable-is-Sleeping.jpg
+featuredImage: /wp-content/uploads/2021/04/2021-04-30-reMarkable-is-Sleeping.jpg
 categories:
   - Misc
 tags:

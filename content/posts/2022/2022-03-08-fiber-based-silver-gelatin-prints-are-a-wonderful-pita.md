@@ -4,7 +4,7 @@ author: Jack
 date: 2022-03-08T15:23:39+00:00
 excerpt: I hate making fiber-based silver gelatin prints in the darkroom. But I love having them to hold and to hang.
 url: /2022/fiber-based-silver-gelatin-prints-are-a-wonderful-pita/
-featuredImage: http://baty.net/wp-content/uploads/2022/03/20220308-Q1000387.jpg
+featuredImage: /wp-content/uploads/2022/03/20220308-Q1000387.jpg
 categories:
   - Photography
 tags:

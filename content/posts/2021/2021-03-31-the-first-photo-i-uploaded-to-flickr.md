@@ -3,7 +3,7 @@ title: The first photo I uploaded to Flickr
 author: Jack
 date: 2021-03-31T16:46:30+00:00
 url: /2021/the-first-photo-i-uploaded-to-flickr/
-featuredImage: http://baty.net/wp-content/uploads/2021/03/first.png
+featuredImage: /wp-content/uploads/2021/03/first.png
 categories:
   - Misc
 tags:

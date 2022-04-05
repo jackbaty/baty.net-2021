@@ -3,7 +3,7 @@ title: Some new scans of old Kodachromes
 author: Jack
 date: 2021-09-22T21:12:24+00:00
 url: /2021/some-old-kodachromes/
-featuredImage: http://baty.net/wp-content/uploads/2021/09/Kodachrome-7-1.jpg
+featuredImage: /wp-content/uploads/2021/09/Kodachrome-7-1.jpg
 categories:
   - Misc
   - Photography

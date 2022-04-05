@@ -4,7 +4,7 @@ author: Jack
 date: 2022-03-12T17:02:16+00:00
 excerpt: My wife bought an awful, kitschy plastic lamp and set it on one of the home theater speakers. I, of course, balked.
 url: /2022/i-love-this-boring-photo-of-a-lamp/
-featuredImage: http://baty.net/wp-content/uploads/2022/03/2022-Roll-60_27.jpeg
+featuredImage: /wp-content/uploads/2022/03/2022-Roll-60_27.jpeg
 wabi_accentColor:
   - is-primary-accent
 categories:

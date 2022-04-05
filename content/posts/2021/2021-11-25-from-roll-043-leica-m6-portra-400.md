@@ -3,7 +3,7 @@ title: 'From Roll 043: (Leica M6/Portra 400)'
 author: Jack
 date: 2021-11-25T00:52:30+00:00
 url: /2021/from-roll-043-leica-m6-portra-400/
-featuredImage: http://baty.net/wp-content/uploads/2021/11/20211124-2021-Roll-043_33.jpg
+featuredImage: /wp-content/uploads/2021/11/20211124-2021-Roll-043_33.jpg
 categories:
   - Photography
 tags:

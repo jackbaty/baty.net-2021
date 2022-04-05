@@ -3,7 +3,7 @@ title: From Roll 2021-029 (Autocord/BW400CN)
 author: Jack
 date: 2021-09-09T23:03:34+00:00
 url: /2021/from-roll-2021-029-autocord-bw400cn/
-featuredImage: http://baty.net/wp-content/uploads/2021/09/2021-Roll-029-02.jpg
+featuredImage: /wp-content/uploads/2021/09/2021-Roll-029-02.jpg
 categories:
   - Photography
 tags:

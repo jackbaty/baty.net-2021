@@ -3,7 +3,7 @@ title: Roll-045 (Leica MP/HP5 Plus)
 author: Jack
 date: 2021-12-14T11:55:00+00:00
 url: /2021/roll-045-leica-mp-hp5-plus/
-featuredImage: http://baty.net/wp-content/uploads/2021/12/2021-Roll-045_17.jpg
+featuredImage: /wp-content/uploads/2021/12/2021-Roll-045_17.jpg
 categories:
   - Misc
   - Photography

@@ -3,7 +3,7 @@ title: Sold the Leica SL2-S and bought a Leica M10-R
 author: Jack
 date: 2022-02-05T12:04:53+00:00
 url: /2022/sold-the-leica-sl2-s-and-bought-a-leica-m10-r/
-featuredImage: http://baty.net/wp-content/uploads/2022/02/20211222-M10R-1.jpg
+featuredImage: /wp-content/uploads/2022/02/20211222-M10R-1.jpg
 categories:
   - Photography
 tags:

@@ -3,7 +3,7 @@ title: May is "Easy Mode" month
 author: Jack
 date: 2021-05-01T11:50:50+00:00
 url: /2021/may-is-easy-mode-month/
-featuredImage: http://baty.net/wp-content/uploads/2021/05/APC_0001.jpg
+featuredImage: /wp-content/uploads/2021/05/APC_0001.jpg
 categories:
   - Misc
 tags:

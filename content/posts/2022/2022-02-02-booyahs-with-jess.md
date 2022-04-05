@@ -3,7 +3,7 @@ title: Booyah’s with Jess
 author: Jack
 date: 2022-02-02T12:50:36+00:00
 url: /2022/booyahs-with-jess/
-featuredImage: http://baty.net/wp-content/uploads/2022/02/20220131-Q1000231.jpg
+featuredImage: /wp-content/uploads/2022/02/20220131-Q1000231.jpg
 categories:
   - Photography
 tags:

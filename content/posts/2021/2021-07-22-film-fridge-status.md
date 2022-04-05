@@ -3,7 +3,7 @@ title: Film Fridge Status
 author: Jack
 date: 2021-07-22T14:09:46+00:00
 url: /2021/film-fridge-status/
-featuredImage: http://baty.net/wp-content/uploads/2021/07/R0001414.jpg
+featuredImage: /wp-content/uploads/2021/07/R0001414.jpg
 categories:
   - Misc
 tags:

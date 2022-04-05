@@ -3,7 +3,7 @@ title: 'Roll 2021-020: (Leica MP/HP5+)'
 author: Jack
 date: 2021-07-26T10:46:24+00:00
 url: /2021/from-roll-2021-020-leica-mp-hp5/
-featuredImage: http://baty.net/wp-content/uploads/2021/07/2021-Roll-020-25-flickr.jpg
+featuredImage: /wp-content/uploads/2021/07/2021-Roll-020-25-flickr.jpg
 categories:
   - Misc
 tags:

@@ -3,7 +3,7 @@ title: A reluctant Lightroom user
 author: Jack
 date: 2021-05-18T06:24:22+00:00
 url: /2021/a-reluctant-lightroom-user/
-featuredImage: http://baty.net/wp-content/uploads/2021/05/lightroom-classic-icon.png
+featuredImage: /wp-content/uploads/2021/05/lightroom-classic-icon.png
 categories:
   - Misc
 tags:

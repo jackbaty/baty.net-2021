@@ -3,7 +3,7 @@ title: Which Leica gear to keep?
 author: Jack
 date: 2021-07-23T07:58:20+00:00
 url: /2021/what-gear-to-keep/
-featuredImage: http://baty.net/wp-content/uploads/2021/07/2021-07-23-R0001419.jpg
+featuredImage: /wp-content/uploads/2021/07/2021-07-23-R0001419.jpg
 categories:
   - Misc
 

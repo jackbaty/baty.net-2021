@@ -3,7 +3,7 @@ title: "My blog's overwrought theme"
 author: Jack
 date: 2021-04-15T08:58:36+00:00
 url: /2021/my-overwrought-weblog-theme/
-featuredImage: http://baty.net/wp-content/uploads/2021/04/overwrought.png
+featuredImage: /wp-content/uploads/2021/04/overwrought.png
 categories:
   - Misc
 tags:

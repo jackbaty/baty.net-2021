@@ -4,7 +4,7 @@ author: Jack
 date: 2022-03-27T15:11:35+00:00
 excerpt: "I'm exporting sharable notes from my Org-roam database to Hugo-compatible files and publishing the results as a standalone website."
 url: /2022/publishing-portions-of-my-org-roam-database/
-featuredImage: http://baty.net/wp-content/uploads/2022/03/20220327-RoamToHugo.png
+featuredImage: /wp-content/uploads/2022/03/20220327-RoamToHugo.png
 categories:
   - Software
 tags:

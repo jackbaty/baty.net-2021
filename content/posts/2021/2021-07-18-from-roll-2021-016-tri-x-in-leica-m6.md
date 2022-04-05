@@ -3,7 +3,7 @@ title: From Roll 2021-016 (Tri-X in Leica M6)
 author: Jack
 date: 2021-07-18T18:06:27+00:00
 url: /2021/from-roll-2021-016-tri-x-in-leica-m6/
-featuredImage: http://baty.net/wp-content/uploads/2021/07/2021-Roll-016-21.jpg
+featuredImage: /wp-content/uploads/2021/07/2021-Roll-016-21.jpg
 categories:
   - Misc
 tags:

@@ -4,7 +4,7 @@ author: Jack
 date: 2022-02-19T13:46:00+00:00
 excerpt: Which is right for me, streaming or buying my music?
 url: /2022/music-stream-or-buy/
-featuredImage: http://baty.net/wp-content/uploads/2022/02/20220219-Q1000320-scaled.jpg
+featuredImage: /wp-content/uploads/2022/02/20220219-Q1000320-scaled.jpg
 categories:
   - Uncategorized
 

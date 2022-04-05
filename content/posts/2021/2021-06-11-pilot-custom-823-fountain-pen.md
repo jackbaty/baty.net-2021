@@ -3,7 +3,7 @@ title: Pilot Custom 823 Fountain Pen
 author: Jack
 date: 2021-06-11T10:20:13+00:00
 url: /2021/pilot-custom-823-fountain-pen/
-featuredImage: http://baty.net/wp-content/uploads/2021/06/823-1-scaled-1.jpg
+featuredImage: /wp-content/uploads/2021/06/823-1-scaled-1.jpg
 categories:
   - Misc
 tags:
@@ -26,9 +26,10 @@ So what’s not to love, then? Well, I didn&#8217;t love how it&nbsp;_wrote_. I 
 
 I thought maybe I had received a bum copy, but I’m loathe to ship things back and wait so I&#8217;d try a few things before giving up.
 
-First, I ran it with wetter ink. I typically use one of the quick-drying Nooder inks like&nbsp;[Bernanke Blue][2], but thought something wetter might fare better. I ordered [Pilot iroshizuku kon-pecki][3] ink and it was an immediate improvement. Also, what a great ink!<figure class="wp-block-image size-full">
+First, I ran it with wetter ink. I typically use one of the quick-drying Nooder inks like&nbsp;[Bernanke Blue][2], but thought something wetter might fare better. I ordered [Pilot iroshizuku kon-pecki][3] ink and it was an immediate improvement. Also, what a great ink!
 
-<img loading="lazy" width="2048" height="1639" src="/content/images/wordpress/2021/06/2021-06-06-Ink-R0001242.jpg" alt="" class="wp-image-629" srcset="/content/images/wordpress/2021/06/2021-06-06-Ink-R0001242.jpg 2048w, /content/images/wordpress/2021/06/2021-06-06-Ink-R0001242-300x240.jpg 300w, /content/images/wordpress/2021/06/2021-06-06-Ink-R0001242.jpg 700w, /content/images/wordpress/2021/06/2021-06-06-Ink-R0001242-768x615.jpg 768w, /content/images/wordpress/2021/06/2021-06-06-Ink-R0001242-1536x1229.jpg 1536w, /content/images/wordpress/2021/06/2021-06-06-Ink-R0001242-450x360.jpg 450w, /content/images/wordpress/2021/06/2021-06-06-Ink-R0001242-1024x820.jpg 1024w, /content/images/wordpress/2021/06/2021-06-06-Ink-R0001242-750x600.jpg 750w" sizes="(max-width: 2048px) 100vw, 2048px" /> <figcaption>Pilot iroshizuku &#8220;kon-peki&#8221;</figcaption></figure> 
+{{< image src="/content/images/wordpress/2021/06/2021-06-06-Ink-R0001242.jpg" caption="Pilot iroshizuku &#8220;kon-peki&#8221;" >}}
+
 
 Then, I spent some time writing in a [Midori notebook][4]. Maybe I got an off copy of the Leuchtturm notebook I have been using, but writing in the Midori made a huge improvement.
 
@@ -36,17 +37,15 @@ So the problem wasn&#8217;t with the pen, necessarily. It was just a combination
 
 Things were much better, but I still wasn&#8217;t thrilled with how it wrote. I wondered if maybe the nib was simply too fine. Japanese pen makers&#8217; idea of &#8220;fine&#8221; is different than that of the German pen makers. Here&#8217;s a comparison between the fine nib on the Pilot and that on the Pelikan M400.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-full"><img loading="lazy" width="2048" height="1365" src="/content/images/wordpress/2021/06/2021-06-06-Pilot-Custom-823-and-Pelikan-M400-nibs-R0001247.jpg" alt="" class="wp-image-630" srcset="/content/images/wordpress/2021/06/2021-06-06-Pilot-Custom-823-and-Pelikan-M400-nibs-R0001247.jpg 2048w, /content/images/wordpress/2021/06/2021-06-06-Pilot-Custom-823-and-Pelikan-M400-nibs-R0001247-300x200.jpg 300w, /content/images/wordpress/2021/06/2021-06-06-Pilot-Custom-823-and-Pelikan-M400-nibs-R0001247.jpg 700w, /content/images/wordpress/2021/06/2021-06-06-Pilot-Custom-823-and-Pelikan-M400-nibs-R0001247-768x512.jpg 768w, /content/images/wordpress/2021/06/2021-06-06-Pilot-Custom-823-and-Pelikan-M400-nibs-R0001247-1536x1024.jpg 1536w, /content/images/wordpress/2021/06/2021-06-06-Pilot-Custom-823-and-Pelikan-M400-nibs-R0001247-450x300.jpg 450w, /content/images/wordpress/2021/06/2021-06-06-Pilot-Custom-823-and-Pelikan-M400-nibs-R0001247-1024x683.jpg 1024w, /content/images/wordpress/2021/06/2021-06-06-Pilot-Custom-823-and-Pelikan-M400-nibs-R0001247-900x600.jpg 900w" sizes="(max-width: 2048px) 100vw, 2048px" /><figcaption>Left: Pilot Custom 823 Fine. Right: Pelikan Souverine M400 Fine.</figcaption></figure>
-</div>
+{{< image src="/content/images/wordpress/2021/06/2021-06-06-Pilot-Custom-823-and-Pelikan-M400-nibs-R0001247.jpg" caption="Left: Pilot Custom 823 Fine. Right: Pelikan Souverine M400 Fine." >}}
+
+
 
 I had to find out, so I ordered _another_ Custom 823, but with a medium nib. After a day with the new pen, I&#8217;ve concluded that it&#8217;s perfect. The combination of better paper, wetter ink, and broader nib is wonderful. This is my new favorite crew.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-full"><img loading="lazy" width="2048" height="1638" src="/content/images/wordpress/2021/06/2021-06-11-R0001258.jpg" alt="" class="wp-image-631" srcset="/content/images/wordpress/2021/06/2021-06-11-R0001258.jpg 2048w, /content/images/wordpress/2021/06/2021-06-11-R0001258-300x240.jpg 300w, /content/images/wordpress/2021/06/2021-06-11-R0001258.jpg 700w, /content/images/wordpress/2021/06/2021-06-11-R0001258-768x614.jpg 768w, /content/images/wordpress/2021/06/2021-06-11-R0001258-1536x1229.jpg 1536w, /content/images/wordpress/2021/06/2021-06-11-R0001258-450x360.jpg 450w, /content/images/wordpress/2021/06/2021-06-11-R0001258-1024x819.jpg 1024w, /content/images/wordpress/2021/06/2021-06-11-R0001258-750x600.jpg 750w" sizes="(max-width: 2048px) 100vw, 2048px" /><figcaption>Pilot Custom 823, Pilot &#8220;kon-peki&#8221; ink, and Midori MD notebook.</figcaption></figure>
-</div>
+{{< image src="/content/images/wordpress/2021/06/2021-06-11-R0001258.jpg" caption="Pilot Custom 823, Pilot &#8220;kon-peki&#8221; ink, and Midori MD notebook." >}}
 
-<!--kg-card-end: html-->
+
 
  [1]: https://www.jetpens.com/Pilot-Custom-823-Fountain-Pen-Black-Body-Fine-Nib/pd/21024
  [2]: https://noodlersink.com/product/19067-bernanke-blue/

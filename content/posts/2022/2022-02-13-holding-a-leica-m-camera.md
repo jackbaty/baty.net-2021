@@ -7,7 +7,7 @@ excerpt: |
     I've used many wonderful film cameras from many different systems: From Nikon F to Hasselblad V to Linhof, Olympus OM, etc.
     They are all great in their own ways, but none of them comes close to making me feel the way I feel when picking up a Leica M camera.
 url: /2022/holding-a-leica-m-camera/
-featuredImage: http://baty.net/wp-content/uploads/2022/02/HoldingLeicaM-scaled-1.jpg
+featuredImage: /wp-content/uploads/2022/02/HoldingLeicaM-scaled-1.jpg
 categories:
   - Photography
 tags:

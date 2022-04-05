@@ -3,7 +3,7 @@ title: From Roll 2021-027 (Leica M6/Porta)
 author: Jack
 date: 2021-09-07T12:14:57+00:00
 url: /2021/from-roll-2021-027-leica-m6-porta/
-featuredImage: http://baty.net/wp-content/uploads/2021/09/2021-Roll-027-31-positive-edit.jpg
+featuredImage: /wp-content/uploads/2021/09/2021-Roll-027-31-positive-edit.jpg
 categories:
   - Photography
 tags:

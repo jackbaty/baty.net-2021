@@ -3,7 +3,7 @@ title: Using Zotero as a bookmarking and read-later service
 author: Jack
 date: 2021-06-16T16:01:43+00:00
 url: /2021/using-zotero-as-a-bookmarking-and-read-later-service/
-featuredImage: http://baty.net/wp-content/uploads/2021/06/zotero.png
+featuredImage: /wp-content/uploads/2021/06/zotero.png
 categories:
   - Misc
 tags:

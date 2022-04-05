@@ -3,7 +3,7 @@ title: 'A new Instagram account: JackBatyPhoto'
 author: Jack
 date: 2021-07-24T08:52:16+00:00
 url: /2021/a-new-instagram-account-jackbatyphoto/
-featuredImage: http://baty.net/wp-content/uploads/2021/07/Self-portrait-1728x2160-1.jpg
+featuredImage: /wp-content/uploads/2021/07/Self-portrait-1728x2160-1.jpg
 categories:
   - Misc
 tags:

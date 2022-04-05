@@ -3,7 +3,7 @@ title: The answer to "Whom should I let manage my photos?"
 author: Jack
 date: 2021-01-02T21:15:52+00:00
 url: /2021/the-answer-to-whom-should-i-let-manage-my-photos/
-featuredImage: http://baty.net/wp-content/uploads/2021/01/49573739187_a3136eaca3_k.jpg
+featuredImage: /wp-content/uploads/2021/01/49573739187_a3136eaca3_k.jpg
 categories:
   - Misc
 tags:

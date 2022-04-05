@@ -3,7 +3,7 @@ title: 'Glass: a social app for photographers'
 author: Jack
 date: 2021-08-10T10:18:47+00:00
 url: /2021/glass-a-social-app-for-photographers/
-featuredImage: http://baty.net/wp-content/uploads/2021/08/glass.png
+featuredImage: /wp-content/uploads/2021/08/glass.png
 categories:
   - Misc
 tags:

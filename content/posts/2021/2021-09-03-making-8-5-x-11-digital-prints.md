@@ -3,7 +3,7 @@ title: Making 8.5 x 11 Digital Prints
 author: Jack
 date: 2021-09-03T13:24:30+00:00
 url: /2021/making-8-5-x-11-digital-prints/
-featuredImage: http://baty.net/wp-content/uploads/2021/09/R0001570.jpg
+featuredImage: /wp-content/uploads/2021/09/R0001570.jpg
 categories:
   - Misc
 tags:

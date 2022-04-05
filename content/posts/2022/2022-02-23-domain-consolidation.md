@@ -4,7 +4,7 @@ author: Jack
 date: 2022-02-23T12:22:33+00:00
 excerpt: "I've decided to consolidate my domain names. My days of hoarding domains, either for different sites or just in case, are drawing to a close."
 url: /2022/domain-consolidation/
-featuredImage: http://baty.net/wp-content/uploads/2022/02/20220223-Q1000337.jpg
+featuredImage: /wp-content/uploads/2022/02/20220223-Q1000337.jpg
 wabi_accentColor:
   - is-quinary-accent
 categories:

@@ -3,7 +3,7 @@ title: You are allowed to use non-Leica lenses on your Leica Camera
 author: Jack
 date: 2022-02-24T14:38:09+00:00
 url: /2022/you-are-allowed-to-use-non-leica-lenses-on-your-leica-camera/
-featuredImage: http://baty.net/wp-content/uploads/2022/02/20220224-Q1000345.jpg
+featuredImage: /wp-content/uploads/2022/02/20220224-Q1000345.jpg
 categories:
   - Photography
 tags:
