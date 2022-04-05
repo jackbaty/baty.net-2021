@@ -37,15 +37,6 @@ theme = "codeit"
     title = ""
     weight = 3
   [[menu.main]]
-    identifier = "baty"
-    pre = ""
-    post = ""
-    name = "Baty.net"
-    url = "https://www.baty.net/"
-    title = ""
-    weight = 4
-
-  [[menu.main]]
     identifier = "wiki"
     pre = ""
     post = ""
