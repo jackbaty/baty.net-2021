@@ -1,8 +1,9 @@
 ---
 title: "Some unremarkable pens the Internet made me buy"
 date: 2022-04-03T09:30:00-04:00
-lastmod: 2022-04-05T09:47:26-04:00
+lastmod: 2022-04-06T07:23:55-04:00
 slug: "some-unremarkable-pens"
+tags: ["Gear"]
 categories: ["Analog"]
 draft: false
 weight: 0

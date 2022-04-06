@@ -38,11 +38,15 @@ CLOSED: [2022-04-03 Sun 11:11]
 :EXPORT_HUGO_SLUG: a-new-blog-just-for-the-hell-of-it
 :END:
 
-Here we are, running the show as a static blog, using Hugo. But why!? I suppose because I was bored and because it's fun. Also because while tinkering with my [[https://notes.baty.net][notes.baty.net]] site I was reminded that I like the "[[https://github.com/jackbaty/CodeIT][CodeIt]]" theme that it uses. I thought I'd see how it felt to create a blog from scratch using my version of that theme. Turns out it felt pretty good, so here we are.
+Here we are, running the show as a static blog, using Hugo. But why!? I suppose because I was bored and because it's fun.
+
+#+hugo: more
+
+Also because while tinkering with my [[https://notes.baty.net][notes.baty.net]] site I was reminded that I like the "[[https://github.com/jackbaty/CodeIT][CodeIt]]" theme that it uses. I thought I'd see how it felt to create a blog from scratch using my version of that theme. Turns out it felt pretty good, so here we are.
 
 I grew tired of pushing against the weight of WordPress.  The inconvenience of maintaining a static blog seemed like a fair trade. The past couple of days, I have found myself happier dealing with the inconvenience.
 
-*** DONE Some unremarkable pens the Internet made me buy :@Analog:
+*** DONE Some unremarkable pens the Internet made me buy :@Analog:Gear:
 CLOSED: [2022-04-03 Sun 09:30]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 20220403-some-unremarkable-pens
