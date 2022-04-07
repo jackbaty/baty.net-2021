@@ -10,6 +10,7 @@
 #+startup: overview
 #+options: broken-links:t
 #+macro: mark @@html:<mark>$1</mark>@@
+#+macro: img @@html:{{< image src="$1" caption="$2" >}}@@
 
 * Drafts
 ** TODO One moment, please...
@@ -46,7 +47,7 @@ I had lunch with my parents recently and took a few photos with both my film and
 
 Here I'm showing one of each, digital and film, of my favorite from the visit.
 
-@@html:{{< image src="MomFilm.jpg" caption="Film: Leica MP (HP5 Plus)" >}}@@
+{{{img(MomFilm.jpg, Film: Leica MP (HP5 Plus))}}}
 
 @@html:{{< image src="MomDigital.jpg" caption="Digital: Leica M10-R (B&W conversion in Silver Efex)" >}}@@
 
