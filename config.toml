@@ -465,7 +465,10 @@ theme = "codeit"
 
   #  Analytics config
   [params.analytics]
-    enable = false
+    enable = true
+
+    [params.analytics.plausible]
+      domain = "baty.net"
     # Google Analytics
     [params.analytics.google]
       id = ""
