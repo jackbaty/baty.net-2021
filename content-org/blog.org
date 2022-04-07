@@ -40,7 +40,9 @@ CLOSED: [2022-04-07 Thu 06:38]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage Preview.png
 :END:
 
-I had lunch with my parents recently and took a few photos with both my film and digital cameras. I shot about the same number of photos with each camera, with close to the same number of "keepers".
+I had lunch with my parents recently and took a few photos with both my film and digital cameras. I shot about the same number of photos with each camera, with close to the same number of "keepers". Which do I prefer?
+
+#+hugo: more
 
 Here I'm showing one of each, digital and film, of my favorite from the visit.
 

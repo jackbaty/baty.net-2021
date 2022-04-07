@@ -1,7 +1,7 @@
 ---
 title: "Comparing film and digital: Mom"
 date: 2022-04-07T06:38:00-04:00
-lastmod: 2022-04-07T07:30:29-04:00
+lastmod: 2022-04-07T07:32:35-04:00
 slug: "comparing-film-and-digital-mom"
 tags: ["Leica", "Analog", "Film"]
 categories: ["Photography"]
@@ -10,7 +10,9 @@ weight: 0
 featuredImage: "Preview.png"
 ---
 
-I had lunch with my parents recently and took a few photos with both my film and digital cameras. I shot about the same number of photos with each camera, with close to the same number of "keepers".
+I had lunch with my parents recently and took a few photos with both my film and digital cameras. I shot about the same number of photos with each camera, with close to the same number of "keepers". Which do I prefer?
+
+<!--more-->
 
 Here I'm showing one of each, digital and film, of my favorite from the visit.
 
