@@ -1,4 +1,4 @@
-baseURL = "https://blog.baty.net/"
+baseURL = "https://baty.net/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
