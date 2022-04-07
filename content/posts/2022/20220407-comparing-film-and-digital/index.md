@@ -1,7 +1,7 @@
 ---
 title: "Comparing film and digital: Mom"
 date: 2022-04-07T06:38:00-04:00
-lastmod: 2022-04-07T07:32:35-04:00
+lastmod: 2022-04-07T07:47:33-04:00
 slug: "comparing-film-and-digital-mom"
 tags: ["Leica", "Analog", "Film"]
 categories: ["Photography"]
@@ -16,9 +16,9 @@ I had lunch with my parents recently and took a few photos with both my film and
 
 Here I'm showing one of each, digital and film, of my favorite from the visit.
 
-{{< figure src="MomFilm.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Film: Leica MP (HP5 Plus)" >}}
+{{< image src="MomFilm.jpg" caption="Film: Leica MP (HP5 Plus)" >}}
 
-{{< figure src="MomDigital.jpg" caption="<span class=\"figure-number\">Figure 2: </span>Digital: Leica M10-R (B&amp;W conversion in Silver Efex)" >}}
+{{< image src="MomDigital.jpg" caption="Digital: Leica M10-R (B&W conversion in Silver Efex)" >}}
 
 I prefer the film image. I manipulated the digital shot in Silver Efex Pro and added a bit of grain to try and get the look I like, but I still prefer the film image.
 
