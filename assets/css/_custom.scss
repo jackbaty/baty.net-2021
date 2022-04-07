@@ -123,3 +123,6 @@ blockquote p:last-of-type a, blockquote p:last-of-type::before {
 figure.imgRightMargin {
   float: right;
 }
+.figure-number {
+  display: none;
+}
