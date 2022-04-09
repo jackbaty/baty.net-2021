@@ -1,7 +1,7 @@
 ---
 title: "Saturday, April  9, 2022"
 date: 2022-04-09T07:40:00-04:00
-lastmod: 2022-04-09T10:42:09-04:00
+lastmod: 2022-04-09T11:38:09-04:00
 slug: 2022-04-09
 categories: ["Daily"]
 draft: false
@@ -16,6 +16,10 @@ How do I tell Instagram to <mark>stop notifying me</mark> that "so-and-so has ad
 I took another look at [Notion](https://notion.so) and still find it to be an overwrought mess.
 
 I like being able to <mark>write in an outline</mark>, but I don't like being _forced_ to. Hence my disillusionment with Roam and Logseq.
+
+Remember when I used to work here? Hell, I _owned_ the place :).
+
+{{< image src="2022-Roll-63_15.jpg" caption=" Fusionary. (Leica MP)" >}}
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
