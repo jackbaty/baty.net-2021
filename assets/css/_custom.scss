@@ -126,3 +126,18 @@ figure.imgRightMargin {
 .figure-number {
   display: none;
 }
+
+mark {
+background: rgba(255, 255, 0, 0.3);
+}
+
+.daily-more {text-align: right;}
+.daily-more a {
+  font-weight: bold;
+  color: #2d96bd;
+}
+
+.daily-home {
+  background: #f8f8f8;
+  padding: 10px;
+}

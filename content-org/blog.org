@@ -26,13 +26,53 @@
 👉 [[https://rl.baty.net][In the meantime]]...
 
 
-* 2022
+* Daily
+** 2022
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: daily/2022
+:DIR:  ./
+:END:
+*** DONE Saturday, April  9, 2022 :@Daily:
+CLOSED: [2022-04-09 Sat 07:40]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 2022-04-09-Saturday
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: 2022-04-09
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "⛅️  Partly cloudy +30°F"
+:END:
+
+The concern I have about {{{mark(using Doom Emacs)}}} is that I'm not really learning how to use Emacs, but rather how to use Doom. But damn it's fast and improves just about every aspect of Emacs.
+
+How do I tell Instagram to {{{mark(stop notifying me)}}} that "so-and-so has added to their story"? I want /some/ notifications, just not those.
+
+I took another look at [[https://notion.so][Notion]] and still find it to be an overwrought mess.
+
+I like being able to {{{mark(write in an outline)}}}, but I don't like being /forced/ to. Hence my disillusionment with Roam and Logseq.
+
+*** DONE Friday, April  8, 2022 :@Daily:
+CLOSED: [2022-04-08 Fri 05:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-04-08-Friday
+:EXPORT_HUGO_SLUG: 2022-04-08
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "🌦 Light rain +37°F"
+:END:
+
+
+Severence is the best thing on TV.
+
+I should take a closer look at [[https://sr.ht/][sourcehut]]
+
+Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.]] Rather than the emacs-mac package. *UPDATE* Nope, doesn't work yet on M1 Macs.
+
+
+* Posts
+** 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2022
 :DIR:  ~/sites/blog/static/img/2022/
 :END:
-** April 2022
-*** DONE Comparing film and digital: Mom :@Photography:Leica:Analog:Film:
+*** April 2022
+**** DONE Comparing film and digital: Mom :@Photography:Leica:Analog:Film:
 CLOSED: [2022-04-07 Thu 06:38]
 :PROPERTIES:
 :EXPORT_HUGO_BUNDLE: 20220407-comparing-film-and-digital
@@ -61,7 +101,7 @@ Additionally, I can make beautiful silver gelatin prints of the film photo in my
 
 I'll probably always shoot both film and digital, but more often than not I prefer the results I get from film.
 
-*** DONE A new blog just for the hell of it :@Blogging:Hugo:
+**** DONE A new blog just for the hell of it :@Blogging:Hugo:
 CLOSED: [2022-04-03 Sun 11:11]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 20220403-a-new-blog-just-for-the-hell-of-it
@@ -76,7 +116,7 @@ Also because while tinkering with my [[https://notes.baty.net][notes.baty.net]] 
 
 I grew tired of pushing against the weight of WordPress.  The inconvenience of maintaining a static blog seemed like a fair trade. The past couple of days, I have found myself happier dealing with the inconvenience.
 
-*** DONE Some unremarkable pens the Internet made me buy :@Analog:Gear:
+**** DONE Some unremarkable pens the Internet made me buy :@Analog:Gear:
 CLOSED: [2022-04-03 Sun 09:30]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 20220403-some-unremarkable-pens

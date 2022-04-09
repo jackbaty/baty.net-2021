@@ -10,6 +10,17 @@ theme = "codeit"
 
 [menu]
   [[menu.main]]
+    identifier = "daily"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Daily"
+    url = "/daily/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
     identifier = "archives"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
@@ -19,7 +30,7 @@ theme = "codeit"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 1
+    weight = 2
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -27,7 +38,7 @@ theme = "codeit"
     name = "Categories"
     url = "/categories/"
     title = ""
-    weight = 2
+    weight = 3
   [[menu.main]]
     identifier = "about"
     pre = ""
@@ -35,7 +46,7 @@ theme = "codeit"
     name = "About"
     url = "/about/"
     title = ""
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "wiki"
     pre = ""
