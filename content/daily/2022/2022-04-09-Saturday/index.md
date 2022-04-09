@@ -1,7 +1,7 @@
 ---
 title: "Saturday, April  9, 2022"
 date: 2022-04-09T07:40:00-04:00
-lastmod: 2022-04-09T15:56:34-04:00
+lastmod: 2022-04-09T16:13:57-04:00
 slug: 2022-04-09
 categories: ["Daily"]
 draft: false
@@ -23,7 +23,7 @@ Remember when I used to work here? Hell, I _owned_ the place :).
 
 I did this: [Bringing my Daily posts here to baty.net](https://baty.net/2022/bringing-my-daily-posts-here-to-baty.net/).
 
-There's no way I'm going to fall in love with [Warp: The terminal for the 21st century](https://www.warp.dev/), because I'm 100% sure they will be charging a subscription at some point and that one feature I really want will be behind a paywall. Also, having to create and log into an "account" just to use a terminal makes me uncomfortable. Cool app, though.
+There's no way I'm going to fall in love with [Warp: The terminal for the 21st century](https://www.warp.dev/), because I'm 100% sure they will be charging a subscription at some point and that the one feature I really want will be behind a paywall. Also, having to create and log into an "account" just to use my terminal makes me uncomfortable. Cool app, though.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
