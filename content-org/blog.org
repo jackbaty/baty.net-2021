@@ -57,6 +57,8 @@ Remember when I used to work here? Hell, I /owned/ the place :).
 
 I did this: [[https://baty.net/2022/bringing-my-daily-posts-here-to-baty.net/][Bringing my Daily posts here to baty.net]].
 
+There's no way I'm going to fall in love with [[https://www.warp.dev/][Warp: The terminal for the 21st century]], because I'm 100% sure they will be charging a subscription at some point and that one feature I really want will be behind a paywall. Also, having to create and log into an "account" just to use my terminal makes me uncomfortable. Cool app, though.
+
 
 **** DONE Friday, April  8, 2022 :@Daily:
 CLOSED: [2022-04-08 Fri 05:30]
