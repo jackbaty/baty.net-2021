@@ -1,7 +1,7 @@
 ---
 title: "Saturday, April  9, 2022"
 date: 2022-04-09T07:40:00-04:00
-lastmod: 2022-04-09T11:52:01-04:00
+lastmod: 2022-04-09T12:14:34-04:00
 slug: 2022-04-09
 categories: ["Daily"]
 draft: false
@@ -20,6 +20,8 @@ I like being able to <mark>write in an outline</mark>, but I don't like being _f
 Remember when I used to work here? Hell, I _owned_ the place :).
 
 {{< image src="2022-Roll-63_15.jpg" caption=" Fusionary. (Leica MP)" >}}
+
+I did this: [Bringing my Daily posts here to baty.net - Jack Baty's Weblog](https://baty.net/2022/bringing-my-daily-posts-here-to-baty.net/)
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
