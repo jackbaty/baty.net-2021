@@ -2,6 +2,18 @@
 // Custom style
 // ==============================
 
+article .single-title {
+    font-family: "Oswald";
+    font-size: 32px;
+    font-weight: bold;
+    }
+
+article .content {
+  font-size: 18px;
+  line-height: 1.5em;
+  text-rendering: optimizeLegibility;
+}
+
 .content {
   margin-top: 2em;
 }
