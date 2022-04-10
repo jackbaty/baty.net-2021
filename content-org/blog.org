@@ -27,7 +27,7 @@
 
 
 * Daily
-** 2022
+** 2022 :@Daily:
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: daily/2022
 :DIR:  ./
@@ -53,6 +53,8 @@ This is how NFTs make me feel: like the future is useless but expensive, and wor
 
 @gawker [[https://www.gawker.com/culture/the-future-is-useless-expensive][The Future Is Not Only Useless, It’s Expensive]]
 #+end_quote
+
+Blog Post: [[https://baty.net/2022/the-kinds-of-portraits-i-prefer/][The kinds of portraits I prefer…Judith Joy Ross, for example - Jack Baty's Weblog]]
 
 **** DONE Saturday, April  9, 2022 :@Daily:
 CLOSED: [2022-04-09 Sat 07:40]
