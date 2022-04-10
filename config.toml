@@ -195,7 +195,7 @@ theme = "codeit"
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      paginate = 20
+      paginate = 10
       #  replaced with hiddenFromHomePage in params.page
       # default behavior when you don't set "hiddenFromHomePage" in front matter
       defaultHiddenFromHomePage = false
@@ -297,7 +297,7 @@ theme = "codeit"
       auto = true
     #  KaTeX mathematical formulas
     [params.page.math]
-      enable = true
+      enable = false
       # default block delimiter is $$ ... $$ and \\[ ... \\]
       blockLeftDelimiter = ""
       blockRightDelimiter = ""
@@ -305,9 +305,9 @@ theme = "codeit"
       inlineLeftDelimiter = ""
       inlineRightDelimiter = ""
       # KaTeX extension copy_tex
-      copyTex = true
+      copyTex = false
       # KaTeX extension mhchem
-      mhchem = true
+      mhchem = false
     #  Code config
     [params.page.code]
       # whether to show the copy button of the code block
@@ -334,7 +334,7 @@ theme = "codeit"
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
+      Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = false
@@ -362,7 +362,7 @@ theme = "codeit"
       Mix = false
     #  Comment config
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config
       [params.page.comment.disqus]
         #
@@ -549,7 +549,7 @@ theme = "codeit"
 [author]
   name = "Jack Baty"
   email = "jack@baty.net"
-  link = ""
+  link = "https://baty.net"
 
 # Sitemap config
 [sitemap]
