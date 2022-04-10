@@ -47,14 +47,6 @@ theme = "codeit"
     url = "/about/"
     title = ""
     weight = 4
-  [[menu.main]]
-    identifier = "wiki"
-    pre = ""
-    post = ""
-    name = "Wiki"
-    url = "https://wiki.baty.net"
-    title = ""
-    weight = 5
 
 
 
