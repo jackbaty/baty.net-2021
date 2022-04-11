@@ -1,7 +1,7 @@
 ---
 title: "Monday, April 11, 2022"
 date: 2022-04-11T05:08:00-04:00
-lastmod: 2022-04-11T05:44:57-04:00
+lastmod: 2022-04-11T06:56:01-04:00
 slug: 2022-04-11
 categories: ["Daily"]
 draft: false
@@ -18,6 +18,8 @@ It bothers me a little that I don't know <mark>how the "image" plugin works</mar
 I need to learn that when I'm about to take a photo and the light looks boring, <mark>the photo will be boring</mark>. Every time.
 
 The things I care about are changing. I <mark>care less and less</mark> about the things everyone else seems to cares more and more about. Is it just my usual zagging?
+
+I don't feel much like <mark>sitting at the computer</mark> today, but that's probably what I'll do anyway.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
