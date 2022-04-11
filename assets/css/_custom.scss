@@ -4,9 +4,12 @@
 
 article .single-title {
     font-family: "Oswald";
-    font-size: 32px;
     font-weight: bold;
     }
+
+article h1.single-title  a {
+  font-size: 1.25em;
+}
 
 article .content {
   font-size: 18px;
@@ -17,6 +20,7 @@ article .content {
 .content {
   margin-top: 2em;
 }
+
 
 .single .post-meta {
   margin-top: 15px;
