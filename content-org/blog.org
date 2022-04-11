@@ -54,6 +54,16 @@ The things I care about are changing. I {{{mark(care less and less)}}} about the
 
 I don't feel much like {{{mark(sitting at the computer)}}} today, but that's probably what I'll do anyway.
 
+I recently considered {{{mark(bulk loading film)}}}, but decided against it. This decision was reinforced today when (re)reading Dante Stella:
+
+#+begin_quote
+It is not entirely clear what bulk-loading gets you here – an opportunity for scratched film, the chance to expose a bulk roll while getting into the loader, losing consecutive frame numbers, and ending up with a cassette that is either missing DX codes or pops apart if you drop it. One thing it does not get you is an actual cost advantage, especially after you spend an hour or two cleaning and loading the cassettes for each 100 foot bulk roll.
+
+Dante Stella, [[https://themachineplanet.wordpress.com/2021/03/25/three-tired-tropes-of-analog-photography/][Three tired tropes of analog photography]]
+#+end_quote
+
+
+
 **** DONE Sunday, April 10, 2022 :@Daily:
 CLOSED: [2022-04-10 Sun 05:39]
 :PROPERTIES:
