@@ -33,6 +33,19 @@
 :DIR:  ./
 :END:
 *** April 2022
+**** DONE Monday, April 11, 2022
+CLOSED: [2022-04-11 Mon 05:08]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 2022-04-11-Monday
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: 2022-04-11
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "⛅️ Partly cloudy +50°F "
+:END:
+
+I shot a roll with the Hasselblad yesterday. It was disappointing. I had more trouble than I remember with focusing. And a third of the frames were underexposed. I need more practice, but I also swapped out the focusing screen for the completely matte version rather than the split prism. That should help. Here's my favorite from the roll...
+
+{{{img(2022-Roll-64_09.jpg, Mom and her \"butler\" Hasselblad 500C/M.)}}}
+
 **** DONE Sunday, April 10, 2022 :@Daily:
 CLOSED: [2022-04-10 Sun 05:39]
 :PROPERTIES:
