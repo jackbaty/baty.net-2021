@@ -41,7 +41,11 @@ CLOSED: [2022-04-12 Tue 04:22]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "☀️ Clear +39°F"
 :END:
 
-I've added comments here. Used [[https://cusdis.com/][Cusdis - Lightweight, privacy-first, open-source comment system]]. It was super easy. We'll see how it feels, and if I like it enough once they start charging for the hosted option. I don't think I'm interested in self-hosting. My feelings about comments are usually mixed. I like having them available, but almost no one comments, so it ends up being mostly overhead. Plus, I prefer getting emails from people to drive-by comments.
+I've {{{mark(added comments here)}}}. Used [[https://cusdis.com/][Cusdis - Lightweight, privacy-first, open-source comment system]]. It was super easy. We'll see how it feels, and if I like it enough once they start charging for the hosted option. I don't think I'm interested in self-hosting. My feelings about comments are usually mixed. I like having them available, but almost no one comments, so it ends up being mostly overhead. Plus, I prefer getting emails from people to drive-by comments.
+
+This Focomat IIc is going to be the death of me. I plan to try and {{{mark(adjust the autofocus mechanism)}}} myself to see if I can get it to focus throught the entire range. I've also ordered a 75 watt bulb to replace the 150W bulb to try and get exposure times up to a workable duration.
+
+{{{img(2022-Roll-62_22.jpg, Focomat IIc. (Leica MP, T-MAX3200))}}}
 
 
 
