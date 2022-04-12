@@ -3,7 +3,6 @@
 #+hugo_section: ./
 #+hugo_weight: nil
 #+hugo_auto_set_lastmod: t
-#+hugo_front_matter_format: yaml
 #+hugo_front_matter_key_replace: description>summary author>nil
 #+author: Jack
 #+category: Blog
@@ -62,6 +61,17 @@ It is not entirely clear what bulk-loading gets you here – an opportunity for 
 Dante Stella, [[https://themachineplanet.wordpress.com/2021/03/25/three-tired-tropes-of-analog-photography/][Three tired tropes of analog photography]]
 #+end_quote
 
+Finally finished [[https://www.goodreads.com/book/show/34684622-leonardo-da-vinci][Leonardo da Vinci by Walter Isaacson]]. That there is an impressive fella.
+
+So it seems that Jack White is a digital sellout now, eh?
+
+#+begin_quote
+All the years of the razor blade editing gets you to a point where I don't want to waste my energy on that when I could put that energy to this now.
+
+Jack White
+#+end_quote
+
+I'm growing weary of {{{mark(fighting with the Focomat IIc)}}}. It's such a wonderfully-built contraption that is capable of amazing enlargements, but it's behaving funky. Exposure times in the 3-8 second range. What's worse, the autofocus isn't working correctly. Autofocus is kind of the whole point of this thing. I'm starting to think I should find something modern, with readily-available replacement parts. Tired of struggling with this ancient beast.
 
 
 **** DONE Sunday, April 10, 2022 :@Daily:
