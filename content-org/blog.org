@@ -71,7 +71,7 @@ All the years of the razor blade editing gets you to a point where I don't want 
 Jack White
 #+end_quote
 
-I'm growing weary of {{{mark(fighting with the Focomat IIc)}}}. It's such a wonderfully-built contraption that is capable of amazing enlargements, but it's behaving funky. Exposure times in the 3-8 second range. What's worse, the autofocus isn't working correctly. Autofocus is kind of the whole point of this thing. I'm starting to think I should find something modern, with readily-available replacement parts. Tired of struggling with this ancient beast.
+I'm growing weary of {{{mark(fighting with the Focomat IIc)}}}. It's such a wonderfully-built contraption that is capable of amazing enlargements, but it's behaving badly. Exposure times are in the 3-8 second range for anything but the densest negatives. What's worse, the autofocus isn't working correctly. Autofocus is kind of the whole point of this thing. I'm starting to think I should find something modern, with readily-available replacement parts. Tired of struggling with this ancient beast.
 
 
 **** DONE Sunday, April 10, 2022 :@Daily:

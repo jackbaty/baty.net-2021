@@ -1,7 +1,7 @@
 +++
 title = "Monday, April 11, 2022"
 date = 2022-04-11T05:08:00-04:00
-lastmod = 2022-04-11T20:01:08-04:00
+lastmod = 2022-04-11T20:02:05-04:00
 slug = 2022-04-11
 categories = ["Daily"]
 draft = false
@@ -35,7 +35,7 @@ So it seems that Jack White is a digital sellout now, eh?
 >
 > Jack White
 
-I'm growing weary of <mark>fighting with the Focomat IIc</mark>. It's such a wonderfully-built contraption that is capable of amazing enlargements, but it's behaving funky. Exposure times in the 3-8 second range. What's worse, the autofocus isn't working correctly. Autofocus is kind of the whole point of this thing. I'm starting to think I should find something modern, with readily-available replacement parts. Tired of struggling with this ancient beast.
+I'm growing weary of <mark>fighting with the Focomat IIc</mark>. It's such a wonderfully-built contraption that is capable of amazing enlargements, but it's behaving badly. Exposure times are in the 3-8 second range for anything but the densest negatives. What's worse, the autofocus isn't working correctly. Autofocus is kind of the whole point of this thing. I'm starting to think I should find something modern, with readily-available replacement parts. Tired of struggling with this ancient beast.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
