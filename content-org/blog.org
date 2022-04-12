@@ -47,7 +47,9 @@ This Focomat IIc is going to be the death of me. I plan to try and {{{mark(adjus
 
 {{{img(2022-Roll-62_22.jpg, Focomat IIc. (Leica MP, T-MAX3200))}}}
 
+I was able to {{{mark(replace the screen)}}} on (what will become) my mom's iPhone XR. I bought the repair kit from iFixIt.com for $99. It wasn't terrible, but I wouldn't want to do it every day.
 
+[[https://glass.photo][Glass.photo]] has a web UI now. This makes it much more interesting for me. [[https://glass.photo/jbaty][My profile]].
 
 **** DONE Monday, April 11, 2022
 CLOSED: [2022-04-11 Mon 05:08]
@@ -162,6 +164,33 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :DIR:  ~/sites/blog/static/img/2022/
 :END:
 *** April 2022
+**** DONE The West Wing (Show) Productivity System :@Analog:Productivity:Workflow:
+CLOSED: [2022-04-12 Tue 14:53]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220412-the-west-wing-productivity-system
+:EXPORT_HUGO_SLUG: the-west-wing-productivity-system
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage /img/2022/20220412-WestWingDVD.png
+:END:
+
+The last time I rewatched "The West Wing" I was once again  impressed by how good people were at their jobs. How /productive/ everyone was. I wondered how /I/ could be that productive.
+
+#+hugo: more
+
+I noticed that the entire process used by the staff seemed to be carrying around folders full of paper and barking things like "Get me the file on senator Jones and the notes from our briefing!" Within minutes they would be perusing a bunch of photos and papers scattered about a desk and they'd develop a plan right then and there. Awesome!
+
+So, I started organizing all of my projects in manilla folders. One folder per project. I called it the "West Wing Productivity System". I'd print meeting notes, mindmaps, emails, etc and put them in the appropriate folder. I kept a single summary sheet clipped to the inside with contact information, summary info, budgets,  etc.
+
+Whenever I needed to work on a project, I'd grab the folder, spread its contents across my desk, and get to work. It was nice knowing where everything was. It was nice being able to see everything at once, if necessary. (I had a big desk).
+
+On the other hand, it was a pain when I needed to share something with colleagues. Search kind of sucked. And if I happened to be at home without the proper folder in my bag I was screwed.
+
+It was fun for a while, but this was nearly 10 years ago. I still use folders, just not quite so deliberately.
+Just for the hell of it, I've brought back the system for some of my home projects. There's not a lot of risk and I get to shuffle papers around again like I'm Josh's assistant or something.
+
+
+
+
+
 **** DONE The kinds of portraits I prefer...Judith Joy Ross, for example :@Photography:
 CLOSED: [2022-04-10 Sun 10:24]
 :PROPERTIES:
@@ -186,7 +215,6 @@ Now, [[https://en.wikipedia.org/wiki/Judith_Joy_Ross][Judith Joy Ross]], on the 
 {{{img(JudithJoyRossPortrait3.png, Photo by Judith Joy Ross)}}}
 
 Simply fantastic work. I just ordered her new book: [[https://www.amazon.com/gp/product/1597115223/][Judith Joy Ross: Photographs 1978–2015]].
-
 
 **** DONE Bringing my Daily posts here to baty.net :@Meta:Hugo:
 CLOSED: [2022-04-09 Sat 11:48]

@@ -1,7 +1,7 @@
 +++
 title = "Tuesday, April 12, 2022"
 date = 2022-04-12T04:22:00-04:00
-lastmod = 2022-04-12T06:26:10-04:00
+lastmod = 2022-04-12T13:23:02-04:00
 slug = 2022-04-12
 categories = ["Daily"]
 draft = false
@@ -14,6 +14,10 @@ I've <mark>added comments here</mark>. Used [Cusdis - Lightweight, privacy-first
 This Focomat IIc is going to be the death of me. I plan to try and <mark>adjust the autofocus mechanism</mark> myself to see if I can get it to focus throught the entire range. I've also ordered a 75 watt bulb to replace the 150W bulb to try and get exposure times up to a workable duration.
 
 {{< image src="2022-Roll-62_22.jpg" caption=" Focomat IIc. (Leica MP" >}}
+
+I was able to <mark>replace the screen</mark> on (what will become) my mom's iPhone XR. I bought the repair kit from iFixIt.com for $99. It wasn't terrible, but I wouldn't want to do it every day.
+
+[Glass.photo](https://glass.photo) has a web UI now. This makes it much more interesting for me. [My profile](https://glass.photo/jbaty).
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
