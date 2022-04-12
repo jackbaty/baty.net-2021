@@ -32,6 +32,19 @@
 :DIR:  ./
 :END:
 *** April 2022
+**** DONE Tuesday, April 12, 2022
+CLOSED: [2022-04-12 Tue 04:22]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 2022-04-12-Tuesday
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: 2022-04-12
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "☀️ Clear +39°F"
+:END:
+
+I've added comments here. Used [[https://cusdis.com/][Cusdis - Lightweight, privacy-first, open-source comment system]]. It was super easy. We'll see how it feels, and if I like it once they start charging for the hosted option.
+
+
+
 **** DONE Monday, April 11, 2022
 CLOSED: [2022-04-11 Mon 05:08]
 :PROPERTIES:
@@ -72,7 +85,6 @@ Jack White
 #+end_quote
 
 I'm growing weary of {{{mark(fighting with the Focomat IIc)}}}. It's such a wonderfully-built contraption that is capable of amazing enlargements, but it's behaving badly. Exposure times are in the 3-8 second range for anything but the densest negatives. What's worse, the autofocus isn't working correctly. Autofocus is kind of the whole point of this thing. I'm starting to think I should find something modern, with readily-available replacement parts. Tired of struggling with this ancient beast.
-
 
 **** DONE Sunday, April 10, 2022 :@Daily:
 CLOSED: [2022-04-10 Sun 05:39]
