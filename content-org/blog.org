@@ -49,7 +49,7 @@ What’s wrong with being ordinary? Where’s the shame in being of use?
 [[https://lareviewofbooks.org/article/david-foster-wallace-said-i-spoke-to-him-like-he-was-a-dog/][David Foster Wallace Said I Spoke to Him Like He Was a Dog]]
 #+end_quote
 
-Is all we do now is {{{mark(wring our hands)}}} about algorithms and tracking and "walled gardens" and the same old takes on the same old things for at least the last decade? I, for one, could use less of all of it.
+Is all that we do is to {{{mark(wring our hands)}}} about algorithms and tracking and "walled gardens" and the same old takes on the same old things for at least the last decade? I, for one, could use less of all of it.
 
 I've changed some colors here. Black and white is "clean" but boring. We'll see how this feels.
 
@@ -59,8 +59,7 @@ So much time in one’s cultural life before the digital revolution was spent ph
 [[https://www.spectator.co.uk/article/the-lost-art-of-browsing][The lost art of browsing | The Spectator]]
 #+end_quote
 
-
-
+Well, /of course/ {{{mark(I'm performing here)}}}. But it's a quiet, solitary performance for the actively curious.
 
 **** DONE Tuesday, April 12, 2022
 CLOSED: [2022-04-12 Tue 04:22]
