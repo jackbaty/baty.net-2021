@@ -32,6 +32,18 @@
 :DIR:  ./
 :END:
 *** April 2022
+**** DONE Wednesday, April 13, 2022
+CLOSED: [2022-04-13 Wed 04:04]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 2022-04-13-Wednesday
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: 2022-04-13
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "☁️ Overcast +58°F"
+:END:
+
+Good morning. It's 4:00 am and Alice and I are finished with our walk. Now what?
+
+
 **** DONE Tuesday, April 12, 2022
 CLOSED: [2022-04-12 Tue 04:22]
 :PROPERTIES:
