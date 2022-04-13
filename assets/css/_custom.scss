@@ -2,6 +2,24 @@
 // Custom style
 // ==============================
 
+
+header a {
+ color: white;
+}
+header a:hover {
+ color: white;
+}
+
+
+a:hover, .single .content a:hover {
+  text-decoration: underline;
+
+}
+
+#header-desktop .header-wrapper .menu a.active {
+  color: #fff;
+}
+
 article .single-title {
     font-family: "Oswald";
     font-weight: bold;
@@ -41,6 +59,7 @@ article .content {
   margin-top: 1rem;
 }
 
+
 article.single.summary {
   margin-bottom: 3em;
 }
@@ -57,9 +76,6 @@ article.single.summary {
   border: 2px solid grey;
 }
 
-.archive-item a {
-  color: #2d96bd;
-}
 .archive-item a:hover {
   text-decoration: underline;
 }
@@ -150,11 +166,9 @@ background: rgba(255, 255, 0, 0.3);
 .daily-more {text-align: right;}
 .daily-more a {
   font-weight: bold;
-  color: #2d96bd;
 }
 
 .daily-home {
-  background: #f8f8f8;
   padding: 10px;
 }
 
