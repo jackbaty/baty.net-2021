@@ -1,7 +1,7 @@
 +++
 title = "Thursday, April 14, 2022"
 date = 2022-04-14T03:59:00-04:00
-lastmod = 2022-04-14T14:23:05-04:00
+lastmod = 2022-04-14T14:31:08-04:00
 slug = 2022-04-14
 categories = ["Daily"]
 draft = false
@@ -22,6 +22,8 @@ My god we just keep <mark>talking about the same things</mark> over and over. Do
 I'm happy to have a <mark>place to vent</mark> that doesn't involve bothering everyone on social media platforms all day.
 
 Ordered 900 dog poop bags. There.
+
+If [Kids In The Hall](https://www.cbr.com/the-kids-in-the-hall-best-characters-debuted-early/) comes back I'll be so happy.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
