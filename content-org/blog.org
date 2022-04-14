@@ -61,6 +61,8 @@ So much time in one’s cultural life before the digital revolution was spent ph
 
 Well, /of course/ {{{mark(I'm performing here)}}}. But it's a quiet, solitary performance for the actively curious.
 
+One of the things I {{{mark(liked about Roam)}}} was that it was always right there as a pinned tab in my browser. I miss that.
+
 **** DONE Tuesday, April 12, 2022
 CLOSED: [2022-04-12 Tue 04:22]
 :PROPERTIES:

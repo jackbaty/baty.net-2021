@@ -116,7 +116,7 @@ theme = "codeit"
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/images/olympia-tracing-400.png"
+      logo = ""
       #logo = "https://static.baty.net/images/avatars/logo.png"
       # title name
       name = "Jack Baty"

@@ -1,7 +1,7 @@
 +++
 title = "Wednesday, April 13, 2022"
 date = 2022-04-13T04:04:00-04:00
-lastmod = 2022-04-13T08:55:08-04:00
+lastmod = 2022-04-13T20:40:13-04:00
 slug = 2022-04-13
 categories = ["Daily"]
 draft = false
@@ -24,6 +24,8 @@ I've changed some colors here. Black and white is "clean" but boring. We'll see 
 > [The lost art of browsing | The Spectator](https://www.spectator.co.uk/article/the-lost-art-of-browsing)
 
 Well, _of course_ <mark>I'm performing here</mark>. But it's a quiet, solitary performance for the actively curious.
+
+One of the things I <mark>liked about Roam</mark> was that it was always right there as a pinned tab in my browser. I miss that.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
