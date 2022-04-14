@@ -32,6 +32,23 @@
 :DIR:  ./
 :END:
 *** April 2022
+**** DONE Thursday, April 14, 2022
+CLOSED: [2022-04-14 Thu 03:59]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 2022-04-14-Thursday
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: 2022-04-14
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "🌦 Light rain, mist +43°F "
+:END:
+
+I never watched "{{{mark(The Sopranos)}}}" in its heyday. I started the first season this week. I can see the appeal, but I don't know if I care enough (after 7 episodes) to spend the time on six seasons of a TV show.
+
+Wanting an app to be basically a wrapper over {{{mark(a set of Markdown files)}}} in a folder is fine, but as a requirement it's a silly place to draw a line.
+
+If I could just agree with myself to {{{mark(use Emacs for most writing and note-taking)}}}, life would be a lot simpler. Even though at times I tire of living in all-text, all-the-time, the alternative of moving stuff around and having to decide where to put things all the time is a terrible way to live.
+
+
+
 **** DONE Wednesday, April 13, 2022
 CLOSED: [2022-04-13 Wed 04:04]
 :PROPERTIES:
