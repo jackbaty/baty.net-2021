@@ -32,6 +32,19 @@
 :DIR:  ./
 :END:
 *** April 2022
+**** DONE Friday, April 15, 2022
+CLOSED: [2022-04-15 Fri 05:17]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 2022-04-15-Friday
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: 2022-04-15
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "☁️ Overcast +41°F"
+:END:
+
+I started building an emacs config from scratch this morning. I said I was never going to do that again, but here we are.
+
+
+
 **** DONE Thursday, April 14, 2022
 CLOSED: [2022-04-14 Thu 03:59]
 :PROPERTIES:
@@ -56,6 +69,8 @@ I'm happy to have a {{{mark(place to vent)}}} that doesn't involve bothering eve
 Ordered 900 dog poop bags. There.
 
 If [[https://www.cbr.com/the-kids-in-the-hall-best-characters-debuted-early/][Kids In The Hall]] comes back I'll be so happy.
+
+I just looked up my [[https://c-command.com/eaglefiler/][EagleFiler]] serial number in DEVONthink because ¯\_(ツ)_/¯.
 **** DONE Wednesday, April 13, 2022
 CLOSED: [2022-04-13 Wed 04:04]
 :PROPERTIES:

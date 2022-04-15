@@ -1,7 +1,7 @@
 +++
 title = "Thursday, April 14, 2022"
 date = 2022-04-14T03:59:00-04:00
-lastmod = 2022-04-14T14:31:08-04:00
+lastmod = 2022-04-14T17:43:30-04:00
 slug = 2022-04-14
 categories = ["Daily"]
 draft = false
@@ -24,6 +24,8 @@ I'm happy to have a <mark>place to vent</mark> that doesn't involve bothering ev
 Ordered 900 dog poop bags. There.
 
 If [Kids In The Hall](https://www.cbr.com/the-kids-in-the-hall-best-characters-debuted-early/) comes back I'll be so happy.
+
+I just looked up my [EagleFiler](https://c-command.com/eaglefiler/) serial number in DEVONthink because ¯\\_(ツ)\_/¯.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
