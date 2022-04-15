@@ -43,7 +43,7 @@ CLOSED: [2022-04-15 Fri 05:17]
 
 I started building an emacs config from scratch this morning. I said I was never going to do that again, but here we are.
 
-
+I should never have {{{mark(sold any of my film cameras)}}}. Especially the Hasselblad 503CXi and the Leica M4. I want them both back but they'd cost too much.
 
 **** DONE Thursday, April 14, 2022
 CLOSED: [2022-04-14 Thu 03:59]
