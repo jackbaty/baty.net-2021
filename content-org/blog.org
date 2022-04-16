@@ -51,6 +51,7 @@ I love it when nerds question an app's "Business Model" as if they have a clue.
 
 Running the [[https://browser.kagi.com/][Orion Browser by Kagi]] to see how it feels.
 
+Twitter is unusable without [[https://underpassapp.com/tweaks/][Tweaks for Twitter]]
 
 **** DONE Friday, April 15, 2022
 CLOSED: [2022-04-15 Fri 05:17]

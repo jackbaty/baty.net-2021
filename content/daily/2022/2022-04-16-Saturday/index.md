@@ -1,7 +1,7 @@
 +++
 title = "Saturday, April 16, 2022"
 date = 2022-04-16T05:21:00-04:00
-lastmod = 2022-04-16T11:57:07-04:00
+lastmod = 2022-04-16T16:08:52-04:00
 slug = 2022-04-16
 categories = ["Daily"]
 draft = false
@@ -18,6 +18,8 @@ I spent six hours this morning working on a <mark>custom Emacs config</mark>. Fr
 I love it when nerds question an app's "Business Model" as if they have a clue.
 
 Running the [Orion Browser by Kagi](https://browser.kagi.com/) to see how it feels.
+
+Twitter is unusable without [Tweaks for Twitter](https://underpassapp.com/tweaks/)
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
