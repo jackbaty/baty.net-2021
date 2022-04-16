@@ -45,6 +45,12 @@ There are two small man-made ponds in my neighborhood. This morning on my walk, 
 
 I've been a [[https://put.io][put.io]] user for 10 years, they tell me. They also, as a thank you, sent me a free year of the 1TB plan. That was nice of them.
 
+I spent six hours this morning working on a {{{mark(custom Emacs config)}}}. From scratch. I copied and pasted some of my stuff from my Doom config, but mostly I opted for the defaults. It was horrible. Nothing works nearly as nicely as the Doom default setup. I mean, not even close. I'm going to continue picking at it, but I think I'm done trying to make it a daily driver.
+
+I love it when nerds question an app's "Business Model" as if they have a clue.
+
+Running the [[https://browser.kagi.com/][Orion Browser by Kagi]] to see how it feels.
+
 
 **** DONE Friday, April 15, 2022
 CLOSED: [2022-04-15 Fri 05:17]
