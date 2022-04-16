@@ -32,6 +32,20 @@
 :DIR:  ./
 :END:
 *** April 2022
+**** DONE Saturday, April 16, 2022
+CLOSED: [2022-04-16 Sat 05:21]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 2022-04-16-Saturday
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: 2022-04-16
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "☀️Clear +35°F"
+:END:
+
+There are two small man-made ponds in my neighborhood. This morning on my walk, {{{mark(the full moon was reflecting beautifully)}}} off one of them and it was nice.
+
+I've been a [[https://put.io][put.io]] user for 10 years, they tell me. They also, as a thank you, sent me a free year of the 1TB plan. That was nice of them.
+
+
 **** DONE Friday, April 15, 2022
 CLOSED: [2022-04-15 Fri 05:17]
 :PROPERTIES:
