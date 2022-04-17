@@ -32,6 +32,22 @@
 :DIR:  ./
 :END:
 *** April 2022
+**** DONE Sunday, April 17, 2022
+CLOSED: [2022-04-17 Sun 05:10]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 2022-04-17-Sunday
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: 2022-04-17
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "☁️ Overcast +31°F"
+:END:
+
+
+
+I don't see how anyone who has acquired more than a {{{mark(passing familiarity with Org mode)}}} would ever choose to write anything in Markdown. It's not fair that the only real tooling for Org is Emacs.
+
+There's a subtle difference between {{{mark(what I want to say and what I want to share)}}}. The things I want to say but not force on people go here in these daily posts. Shared things go on social media and as posts below.
+
+
 **** DONE Saturday, April 16, 2022
 CLOSED: [2022-04-16 Sat 05:21]
 :PROPERTIES:
